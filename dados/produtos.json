@@ -1,0 +1,4543 @@
+[
+  {
+    "Cód.": "454071",
+    "Produto": "Tubo a vacuo e gel separador VACUETTE 3,5ml (tampa vermelha) - unidade",
+    "Un. Med.": "Unidade",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,46",
+    "Vl. Venda": "0,46",
+    "Qtd. Estoque": "13.850,00",
+    "Custo Total": "6.371,00"
+  },
+  {
+    "Cód.": "450072",
+    "Produto": "Agulha vácuo 25/8",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "0,32",
+    "Vl. Venda": "0,32",
+    "Qtd. Estoque": "13.195,00",
+    "Custo Total": "4.222,40"
+  },
+  {
+    "Cód.": "454036",
+    "Produto": "Tubo a Vacuo EDTA 4ml (tampa roxa) - unidade",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "0,30",
+    "Vl. Venda": "0,30",
+    "Qtd. Estoque": "10.400,00",
+    "Custo Total": "3.120,00"
+  },
+  {
+    "Produto": "Tubo de Transporte 4ml âmbar (tampa amarela)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "6.210,00",
+    "Custo Total": "62,10"
+  },
+  {
+    "Produto": "panfletos ram Kids",
+    "Categoria": "Outras",
+    "Vl. Venda": "0,00",
+    "Qtd. Estoque": "5.000,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Cód.": "450071",
+    "Produto": "Agulha vácuo 25/7",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,32",
+    "Vl. Venda": "0,32",
+    "Qtd. Estoque": "3.997,00",
+    "Custo Total": "1.279,04"
+  },
+  {
+    "Produto": "Tubo de Transporte de amostra 4ml (tampa branca)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,31",
+    "Vl. Venda": "0,31",
+    "Qtd. Estoque": "3.663,00",
+    "Custo Total": "1.135,53"
+  },
+  {
+    "Produto": "Tubo a Vacuo EDTA Reduzido 2ml (tampa roxa) - unidade",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,32",
+    "Vl. Venda": "0,32",
+    "Qtd. Estoque": "3.532,00",
+    "Custo Total": "1.130,24"
+  },
+  {
+    "Cód.": "45437",
+    "Produto": "Tubo a Vacuo Citrato (tampa azul) 3,5ml - unidade",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "0,43",
+    "Vl. Venda": "0,43",
+    "Qtd. Estoque": "2.998,00",
+    "Custo Total": "1.289,14"
+  },
+  {
+    "Cód.": "6000116 - UN",
+    "Produto": "Tubo a vacuo EDTA perolado (PPT) 5ml - unidade",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,66",
+    "Vl. Venda": "0,66",
+    "Qtd. Estoque": "975,00",
+    "Custo Total": "643,50"
+  },
+  {
+    "Produto": "Tubo a vacuo Heparina 6ml (tampa azul) - unidade",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "804,00",
+    "Custo Total": "8,04"
+  },
+  {
+    "Produto": "Kit Para COVID-19",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "687,00",
+    "Custo Total": "6,87"
+  },
+  {
+    "Produto": "Bexiga Personalizada C/100",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "598,00",
+    "Custo Total": "5,98"
+  },
+  {
+    "Produto": "Tubo a Vacuo Citrato Reduzido (tampa azul) 2 ml - unidade",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,44",
+    "Vl. Venda": "0,44",
+    "Qtd. Estoque": "563,00",
+    "Custo Total": "247,72"
+  },
+  {
+    "Produto": "Agulha comum 25/8",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "0,18",
+    "Vl. Venda": "0,18",
+    "Qtd. Estoque": "500,00",
+    "Custo Total": "90,00"
+  },
+  {
+    "Cód.": "454091",
+    "Produto": "Tubo a vacuo Fluoreto 4ml (tampa cinza) - unidade",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,51",
+    "Vl. Venda": "0,51",
+    "Qtd. Estoque": "494,00",
+    "Custo Total": "251,94"
+  },
+  {
+    "Cód.": "454051",
+    "Produto": "Tubo a vacuo Heparina 4ml (tampa verde) - unidade",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,48",
+    "Vl. Venda": "0,48",
+    "Qtd. Estoque": "490,00",
+    "Custo Total": "235,20"
+  },
+  {
+    "Produto": "Agulha comum 25/7",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "0,18",
+    "Vl. Venda": "0,18",
+    "Qtd. Estoque": "400,00",
+    "Custo Total": "72,00"
+  },
+  {
+    "Produto": "Tubo Ametal  6ml/9ml (tampa branca) - unidade",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "304,00",
+    "Custo Total": "3,04"
+  },
+  {
+    "Produto": "Bloco de Pedidos de Exames Médicos",
+    "Categoria": "Outras",
+    "Vl. Custo": "3,12",
+    "Vl. Venda": "3,12",
+    "Qtd. Estoque": "232,00",
+    "Custo Total": "723,84"
+  },
+  {
+    "Produto": "Tubo salivette (cortisol) - unidade",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "168,00",
+    "Custo Total": "1,68"
+  },
+  {
+    "Produto": "Avental descartável (unidade)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "8,00",
+    "Vl. Venda": "8,00",
+    "Qtd. Estoque": "155,00",
+    "Custo Total": "1.240,00"
+  },
+  {
+    "Produto": "Canhão",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "130,00",
+    "Custo Total": "1,30"
+  },
+  {
+    "Produto": "Recibo de caixa - Bloco",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "2,84",
+    "Vl. Venda": "2,84",
+    "Qtd. Estoque": "128,00",
+    "Custo Total": "363,52"
+  },
+  {
+    "Produto": "Swab Stuart tampa branca/azul",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "1,20",
+    "Vl. Venda": "1,20",
+    "Qtd. Estoque": "125,00",
+    "Custo Total": "150,00"
+  },
+  {
+    "Produto": "Lanceta estéril (trângulo)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "23,65",
+    "Vl. Venda": "0,23",
+    "Qtd. Estoque": "125,00",
+    "Custo Total": "2.956,25"
+  },
+  {
+    "Produto": "Kit Teste do Pezinho DLE",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "110,00",
+    "Custo Total": "1,10"
+  },
+  {
+    "Produto": "BARRA DE CEREAL TRIO 12X20GR_BANANA_CHOCOLATE_ZERO",
+    "Categoria": "Outras",
+    "Vl. Custo": "14,00",
+    "Vl. Venda": "14,00",
+    "Qtd. Estoque": "110,00",
+    "Custo Total": "1.540,00"
+  },
+  {
+    "Produto": "Bag Pardini",
+    "Categoria": "Outras",
+    "Vl. Custo": "1,00",
+    "Vl. Venda": "1,00",
+    "Qtd. Estoque": "88,00",
+    "Custo Total": "88,00"
+  },
+  {
+    "Produto": "Luva P",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "49,99",
+    "Vl. Venda": "49,99",
+    "Qtd. Estoque": "85,00",
+    "Custo Total": "4.249,15"
+  },
+  {
+    "Produto": "BARRA DE CEREAL TRIO 12X20GR_MORANGO_C/CHOCOLATE",
+    "Categoria": "Outras",
+    "Vl. Venda": "1,30",
+    "Qtd. Estoque": "81,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Swab Cary Blair para fezes",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "73,00",
+    "Custo Total": "0,73"
+  },
+  {
+    "Produto": "Chá",
+    "Categoria": "Outras",
+    "Vl. Custo": "3,00",
+    "Vl. Venda": "3,00",
+    "Qtd. Estoque": "73,00",
+    "Custo Total": "219,00"
+  },
+  {
+    "Produto": "BARRA DE CEREAL TRIO 12X20GR_BANANA_E_MEL",
+    "Categoria": "Outras",
+    "Vl. Custo": "13,30",
+    "Vl. Venda": "1,11",
+    "Qtd. Estoque": "63,00",
+    "Custo Total": "837,90"
+  },
+  {
+    "Produto": "Resma de papel A4",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "14,65",
+    "Vl. Venda": "14,65",
+    "Qtd. Estoque": "58,00",
+    "Custo Total": "849,70"
+  },
+  {
+    "Produto": "Mascara N95",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "6,25",
+    "Vl. Venda": "6,25",
+    "Qtd. Estoque": "56,00",
+    "Custo Total": "350,00"
+  },
+  {
+    "Produto": "Etiqueta zebra Térmica (50X30mm FASSON)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "11,80",
+    "Vl. Venda": "11,80",
+    "Qtd. Estoque": "54,00",
+    "Custo Total": "637,20"
+  },
+  {
+    "Produto": "Crachá transparente",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,14",
+    "Vl. Venda": "0,14",
+    "Qtd. Estoque": "40,00",
+    "Custo Total": "5,60"
+  },
+  {
+    "Produto": "Saco PP 10x15 c/100 - saco transparente",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "4,55",
+    "Vl. Venda": "4,55",
+    "Qtd. Estoque": "38,00",
+    "Custo Total": "172,90"
+  },
+  {
+    "Produto": "Máscara Tripla Descartável Com Filtro Caixa 50 un.",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "10,00",
+    "Vl. Venda": "10,00",
+    "Qtd. Estoque": "37,00",
+    "Custo Total": "370,00"
+  },
+  {
+    "Produto": "Água de injeção",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,76",
+    "Vl. Venda": "0,76",
+    "Qtd. Estoque": "35,00",
+    "Custo Total": "26,60"
+  },
+  {
+    "Produto": "Lactose (Lact up laranja e Limão)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "7,85",
+    "Vl. Venda": "7,85",
+    "Qtd. Estoque": "34,00",
+    "Custo Total": "266,90"
+  },
+  {
+    "Produto": "Copo descartável 50ml - pacote c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "2,70",
+    "Vl. Venda": "2,70",
+    "Qtd. Estoque": "32,00",
+    "Custo Total": "86,40"
+  },
+  {
+    "Produto": "Bobina para máquina de senha (amarela)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "5,40",
+    "Vl. Venda": "5,40",
+    "Qtd. Estoque": "31,00",
+    "Custo Total": "167,40"
+  },
+  {
+    "Produto": "Display qr code",
+    "Categoria": "Outras",
+    "Vl. Venda": "0,00",
+    "Qtd. Estoque": "30,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Pano de chão GG",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "4,50",
+    "Vl. Venda": "4,50",
+    "Qtd. Estoque": "27,00",
+    "Custo Total": "121,50"
+  },
+  {
+    "Cód.": "7502",
+    "Produto": "COVID-19 Ag ECO Teste",
+    "Categoria": "Outras",
+    "Vl. Custo": "2.000,00",
+    "Vl. Venda": "80,00",
+    "Qtd. Estoque": "25,00",
+    "Custo Total": "50.000,00"
+  },
+  {
+    "Produto": "Cartolina",
+    "Categoria": "Outras",
+    "Vl. Custo": "1,50",
+    "Vl. Venda": "1,50",
+    "Qtd. Estoque": "25,00",
+    "Custo Total": "37,50"
+  },
+  {
+    "Produto": "Talão cadastro viamed",
+    "Categoria": "Outras",
+    "Vl. Custo": "9,00",
+    "Vl. Venda": "9,00",
+    "Qtd. Estoque": "25,00",
+    "Custo Total": "225,00"
+  },
+  {
+    "Produto": "Tubo para escarro (tampa azul) - unidade",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "24,00",
+    "Custo Total": "0,24"
+  },
+  {
+    "Cód.": "562",
+    "Produto": "Dextrosol/glutol sabor Limão (gluc-up 75)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "4,15",
+    "Vl. Venda": "4,15",
+    "Qtd. Estoque": "24,00",
+    "Custo Total": "99,60"
+  },
+  {
+    "Cód.": "4880994190",
+    "Produto": "Elecsys - CELL CLEANING / SCCS",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "9,47",
+    "Vl. Venda": "9,47",
+    "Qtd. Estoque": "24,00",
+    "Custo Total": "227,28"
+  },
+  {
+    "Produto": "Desinfetante (ypê) 200ml",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "2,95",
+    "Vl. Venda": "2,95",
+    "Qtd. Estoque": "22,00",
+    "Custo Total": "64,90"
+  },
+  {
+    "Produto": "Blood stop (Infantil)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "21,75",
+    "Vl. Venda": "21,75",
+    "Qtd. Estoque": "21,00",
+    "Custo Total": "456,75"
+  },
+  {
+    "Produto": "Lacre para malote do caixa - pacote c/100",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "15,90",
+    "Vl. Venda": "15,90",
+    "Qtd. Estoque": "21,00",
+    "Custo Total": "333,90"
+  },
+  {
+    "Produto": "Lâmina fosca 26x76mm (caixa)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "6,10",
+    "Vl. Venda": "6,10",
+    "Qtd. Estoque": "21,00",
+    "Custo Total": "128,10"
+  },
+  {
+    "Cód.": "9038078190",
+    "Produto": "Elecsys - Vitamina D (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "747,78",
+    "Vl. Venda": "747,78",
+    "Qtd. Estoque": "20,00",
+    "Custo Total": "14.955,60"
+  },
+  {
+    "Produto": "BARRA DE CEREAL TRIO 12X20GR_COCO_C/CHOCOLATE",
+    "Categoria": "Outras",
+    "Vl. Custo": "1,30",
+    "Vl. Venda": "1,30",
+    "Qtd. Estoque": "20,00",
+    "Custo Total": "26,00"
+  },
+  {
+    "Produto": "Bom Ar",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "8,75",
+    "Vl. Venda": "8,75",
+    "Qtd. Estoque": "20,00",
+    "Custo Total": "175,00"
+  },
+  {
+    "Produto": "Ribbon",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "20,00",
+    "Custo Total": "0,20"
+  },
+  {
+    "Cód.": "9327592023",
+    "Produto": "Sars- CoV-2 Rapid Ag Test 25T",
+    "Categoria": "Outras",
+    "Vl. Custo": "467,84",
+    "Vl. Venda": "18,71",
+    "Qtd. Estoque": "20,00",
+    "Custo Total": "9.356,80"
+  },
+  {
+    "Produto": "Garrote",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "8,50",
+    "Vl. Venda": "8,50",
+    "Qtd. Estoque": "20,00",
+    "Custo Total": "170,00"
+  },
+  {
+    "Produto": "Descarpack 1,5Lts P",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "6,47",
+    "Vl. Venda": "6,47",
+    "Qtd. Estoque": "19,00",
+    "Custo Total": "122,93"
+  },
+  {
+    "Produto": "Elemento filtrante para filtro (Refil cartucho 10 micra polipropileno)",
+    "Categoria": "Outras",
+    "Vl. Custo": "14,49",
+    "Vl. Venda": "14,49",
+    "Qtd. Estoque": "18,00",
+    "Custo Total": "260,82"
+  },
+  {
+    "Produto": "Blood stop (Adulto)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "19,90",
+    "Vl. Venda": "19,90",
+    "Qtd. Estoque": "18,00",
+    "Custo Total": "358,20"
+  },
+  {
+    "Cód.": "9043276190",
+    "Produto": "ELECSYS FT4 IV",
+    "Categoria": "Outras",
+    "Vl. Custo": "171,84",
+    "Vl. Venda": "171,84",
+    "Qtd. Estoque": "18,00",
+    "Custo Total": "3.093,12"
+  },
+  {
+    "Produto": "Dextrosol/glutol sabor Abacaxi (gluc-up 75)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "4,55",
+    "Vl. Venda": "4,55",
+    "Qtd. Estoque": "17,00",
+    "Custo Total": "77,35"
+  },
+  {
+    "Produto": "Bisturi  N°22",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,24",
+    "Vl. Venda": "0,24",
+    "Qtd. Estoque": "17,00",
+    "Custo Total": "4,08"
+  },
+  {
+    "Produto": "Anti-A",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "19,00",
+    "Vl. Venda": "19,00",
+    "Qtd. Estoque": "16,00",
+    "Custo Total": "304,00"
+  },
+  {
+    "Cód.": "4489241190",
+    "Produto": "Elecsys - NaOH-D / NAOHD",
+    "Categoria": "Outras",
+    "Vl. Custo": "8,68",
+    "Vl. Venda": "8,68",
+    "Qtd. Estoque": "16,00",
+    "Custo Total": "138,88"
+  },
+  {
+    "Cód.": "7212771190",
+    "Produto": "Elecsys - Vitamina B12 (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "180,85",
+    "Vl. Venda": "180,85",
+    "Qtd. Estoque": "16,00",
+    "Custo Total": "2.893,60"
+  },
+  {
+    "Cód.": "5336163190",
+    "Produto": "Elecsys - Hemoglobina glicosilada / A1C-3",
+    "Categoria": "Outras",
+    "Vl. Custo": "293,49",
+    "Vl. Venda": "293,49",
+    "Qtd. Estoque": "16,00",
+    "Custo Total": "4.695,84"
+  },
+  {
+    "Produto": "Gaze (pacote)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "16,80",
+    "Vl. Venda": "16,80",
+    "Qtd. Estoque": "16,00",
+    "Custo Total": "268,80"
+  },
+  {
+    "Produto": "Anti-B",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "19,00",
+    "Vl. Venda": "19,00",
+    "Qtd. Estoque": "16,00",
+    "Custo Total": "304,00"
+  },
+  {
+    "Produto": "Certificado de Coragem (Coleta Infantil) - pacote c/50",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "16,00",
+    "Custo Total": "0,16"
+  },
+  {
+    "Produto": "Papel higiênico - pacote c/4",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "4,30",
+    "Vl. Venda": "4,30",
+    "Qtd. Estoque": "15,00",
+    "Custo Total": "64,50"
+  },
+  {
+    "Produto": "Anti-AB",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "19,00",
+    "Vl. Venda": "19,00",
+    "Qtd. Estoque": "15,00",
+    "Custo Total": "285,00"
+  },
+  {
+    "Cód.": "8429324190",
+    "Produto": "Elecsys - TSH (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "313,35",
+    "Vl. Venda": "313,35",
+    "Qtd. Estoque": "15,00",
+    "Custo Total": "4.700,25"
+  },
+  {
+    "Produto": "BEBIDA CHOCOLATE SAVORS",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "14,00",
+    "Custo Total": "0,14"
+  },
+  {
+    "Produto": "Capa de exames - pacote c/500",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "450,00",
+    "Vl. Venda": "450,00",
+    "Qtd. Estoque": "14,00",
+    "Custo Total": "6.300,00"
+  },
+  {
+    "Produto": "Ágar Cled pacote c/10 placas",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "27,96",
+    "Vl. Venda": "27,96",
+    "Qtd. Estoque": "14,00",
+    "Custo Total": "391,44"
+  },
+  {
+    "Produto": "Anti-D",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "39,00",
+    "Vl. Venda": "39,00",
+    "Qtd. Estoque": "13,00",
+    "Custo Total": "507,00"
+  },
+  {
+    "Produto": "B-hcg (ebram) - caixa c/50",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "36,10",
+    "Vl. Venda": "36,10",
+    "Qtd. Estoque": "13,00",
+    "Custo Total": "469,30"
+  },
+  {
+    "Produto": "Luva M",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "113,90",
+    "Vl. Venda": "113,90",
+    "Qtd. Estoque": "13,00",
+    "Custo Total": "1.480,70"
+  },
+  {
+    "Produto": "Filtro para café 103 (Melita)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "3,20",
+    "Vl. Venda": "3,20",
+    "Qtd. Estoque": "13,00",
+    "Custo Total": "41,60"
+  },
+  {
+    "Produto": "Descarpack 13Lts G",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,47",
+    "Vl. Venda": "10,47",
+    "Qtd. Estoque": "13,00",
+    "Custo Total": "6,11"
+  },
+  {
+    "Produto": "Flanela",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "2,00",
+    "Vl. Venda": "2,00",
+    "Qtd. Estoque": "13,00",
+    "Custo Total": "26,00"
+  },
+  {
+    "Produto": "Copo descartável 200ml - pacote c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "4,50",
+    "Vl. Venda": "4,50",
+    "Qtd. Estoque": "13,00",
+    "Custo Total": "58,50"
+  },
+  {
+    "Cód.": "4489225190",
+    "Produto": "Elecsys - SMS",
+    "Categoria": "Outras",
+    "Vl. Custo": "17,44",
+    "Vl. Venda": "17,44",
+    "Qtd. Estoque": "12,00",
+    "Custo Total": "209,28"
+  },
+  {
+    "Produto": "Carbono para recibo caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "2,50",
+    "Vl. Venda": "2,50",
+    "Qtd. Estoque": "12,00",
+    "Custo Total": "30,00"
+  },
+  {
+    "Produto": "Veja Multiuso",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "4,15",
+    "Vl. Venda": "4,15",
+    "Qtd. Estoque": "12,00",
+    "Custo Total": "49,80"
+  },
+  {
+    "Produto": "Pasta Suspensa",
+    "Categoria": "Outras",
+    "Vl. Custo": "2,40",
+    "Vl. Venda": "2,40",
+    "Qtd. Estoque": "12,00",
+    "Custo Total": "28,80"
+  },
+  {
+    "Produto": "Álcool 70% 1L",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "11,85",
+    "Vl. Venda": "11,85",
+    "Qtd. Estoque": "12,00",
+    "Custo Total": "142,20"
+  },
+  {
+    "Produto": "Saco p/ lixo comum 100L - pacote c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "39,90",
+    "Qtd. Estoque": "12,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Saco p/ lixo comum 20L - pacote c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "10,95",
+    "Vl. Venda": "10,95",
+    "Qtd. Estoque": "11,00",
+    "Custo Total": "120,45"
+  },
+  {
+    "Produto": "Filtro para café 102 (Melita)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "2,90",
+    "Vl. Venda": "2,90",
+    "Qtd. Estoque": "11,00",
+    "Custo Total": "31,90"
+  },
+  {
+    "Produto": "Durex largo  45mm",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "3,10",
+    "Vl. Venda": "3,50",
+    "Qtd. Estoque": "11,00",
+    "Custo Total": "34,10"
+  },
+  {
+    "Cód.": "20767107322",
+    "Produto": "Elecsys - Trigliceridos / TRIGL (Bioquímica)",
+    "Categoria": "Outras",
+    "Vl. Custo": "96,28",
+    "Vl. Venda": "96,28",
+    "Qtd. Estoque": "11,00",
+    "Custo Total": "1.059,08"
+  },
+  {
+    "Produto": "Lâmina lisa 26x76mm (caixa)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "5,50",
+    "Vl. Venda": "5,50",
+    "Qtd. Estoque": "11,00",
+    "Custo Total": "60,50"
+  },
+  {
+    "Produto": "Ágar Teague C/10 placas",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "38,98",
+    "Qtd. Estoque": "11,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Escalpe a vácuo 21g",
+    "Categoria": "Outras",
+    "Vl. Custo": "42,00",
+    "Vl. Venda": "42,00",
+    "Qtd. Estoque": "11,00",
+    "Custo Total": "462,00"
+  },
+  {
+    "Cód.": "U031-103",
+    "Produto": "Fita de Urina (lumiratek)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "57,00",
+    "Vl. Venda": "57,00",
+    "Qtd. Estoque": "10,00",
+    "Custo Total": "570,00"
+  },
+  {
+    "Produto": "Piloto",
+    "Categoria": "Outras",
+    "Vl. Custo": "4,90",
+    "Vl. Venda": "4,90",
+    "Qtd. Estoque": "10,00",
+    "Custo Total": "49,00"
+  },
+  {
+    "Produto": "Coletor de urina pote simples (biópsia) - pct/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "24,00",
+    "Vl. Venda": "24,00",
+    "Qtd. Estoque": "10,00",
+    "Custo Total": "240,00"
+  },
+  {
+    "Cód.": "11662988122",
+    "Produto": "Elecsys - ProCell (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "63,24",
+    "Vl. Venda": "63,24",
+    "Qtd. Estoque": "10,00",
+    "Custo Total": "632,40"
+  },
+  {
+    "Cód.": "11662970122",
+    "Produto": "Elecsys - CleanCell (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "60,19",
+    "Vl. Venda": "60,19",
+    "Qtd. Estoque": "10,00",
+    "Custo Total": "601,90"
+  },
+  {
+    "Cód.": "4528182190",
+    "Produto": "Elecsys - HbA1c TQ / A1CD2",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "24,67",
+    "Vl. Venda": "24,67",
+    "Qtd. Estoque": "10,00",
+    "Custo Total": "246,70"
+  },
+  {
+    "Produto": "MIF modificado",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "29,00",
+    "Vl. Venda": "29,00",
+    "Qtd. Estoque": "9,00",
+    "Custo Total": "261,00"
+  },
+  {
+    "Produto": "Pilha comum - pacote c/2",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "6,90",
+    "Qtd. Estoque": "9,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Cód.": "7939",
+    "Produto": "Etiqueta zebra Térmica plastica (50X30mm FASSON)",
+    "Categoria": "Outras",
+    "Vl. Custo": "22,00",
+    "Vl. Venda": "22,00",
+    "Qtd. Estoque": "9,00",
+    "Custo Total": "198,00"
+  },
+  {
+    "Produto": "Escalpe 21G (verde) - caixa c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "31,41",
+    "Vl. Venda": "31,41",
+    "Qtd. Estoque": "9,00",
+    "Custo Total": "282,69"
+  },
+  {
+    "Cód.": "5422485190",
+    "Produto": "Elecsys - EcoTergent, cobas c311 ECO - D",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "99,88",
+    "Vl. Venda": "99,88",
+    "Qtd. Estoque": "9,00",
+    "Custo Total": "898,92"
+  },
+  {
+    "Produto": "Coprologia funcional - pote 1L",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "2,38",
+    "Vl. Venda": "2,38",
+    "Qtd. Estoque": "9,00",
+    "Custo Total": "21,42"
+  },
+  {
+    "Produto": "Saco p/ lixo hospitalar 30L - pacote c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "22,80",
+    "Qtd. Estoque": "8,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Borboleta para Cadeira",
+    "Categoria": "Outras",
+    "Vl. Custo": "2,50",
+    "Vl. Venda": "2,50",
+    "Qtd. Estoque": "8,00",
+    "Custo Total": "20,00"
+  },
+  {
+    "Produto": "Swab (Carvão)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "8,00",
+    "Custo Total": "0,08"
+  },
+  {
+    "Cód.": "4880340190",
+    "Produto": "Elecsys - ProCell M  (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "38,63",
+    "Vl. Venda": "38,63",
+    "Qtd. Estoque": "8,00",
+    "Custo Total": "309,04"
+  },
+  {
+    "Cód.": "4880285190",
+    "Produto": "Elecsys - Cell Wash Solution / NaOH-D",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "88,99",
+    "Vl. Venda": "88,99",
+    "Qtd. Estoque": "8,00",
+    "Custo Total": "711,92"
+  },
+  {
+    "Produto": "Fita dupla face",
+    "Categoria": "Outras",
+    "Vl. Custo": "5,70",
+    "Vl. Venda": "5,70",
+    "Qtd. Estoque": "8,00",
+    "Custo Total": "45,60"
+  },
+  {
+    "Cód.": "4880293190",
+    "Produto": "Elecsys - CleanCell M (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "31,07",
+    "Vl. Venda": "31,07",
+    "Qtd. Estoque": "8,00",
+    "Custo Total": "248,56"
+  },
+  {
+    "Cód.": "3183696122",
+    "Produto": "Elecsys - Ferro / iron2 (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "67,86",
+    "Vl. Venda": "67,86",
+    "Qtd. Estoque": "8,00",
+    "Custo Total": "542,88"
+  },
+  {
+    "Cód.": "7420005001",
+    "Produto": "Elecsys - CELLPACK DCL 300 (HEMATOLOGIA)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "125,35",
+    "Vl. Venda": "125,35",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "877,45"
+  },
+  {
+    "Produto": "Sabão de coco (unidade)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "1,57",
+    "Vl. Venda": "1,57",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "10,99"
+  },
+  {
+    "Produto": "Saco p/ lixo hospitalar 50L - pacote c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "37,90",
+    "Vl. Venda": "37,90",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "265,30"
+  },
+  {
+    "Produto": "Formol 10%",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "12,00",
+    "Vl. Venda": "12,00",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "84,00"
+  },
+  {
+    "Cód.": "6334601001",
+    "Produto": "Cobas u pack (400 strips)",
+    "Categoria": "Outras",
+    "Vl. Custo": "506,38",
+    "Vl. Venda": "506,38",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "3.544,66"
+  },
+  {
+    "Cód.": "3110435180",
+    "Produto": "Solução Desproteinizante",
+    "Categoria": "Outras",
+    "Vl. Custo": "204,91",
+    "Vl. Venda": "204,91",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "1.434,37"
+  },
+  {
+    "Produto": "Saco virgem 30x40 (1kg) - saco transparente G",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "18,30",
+    "Vl. Venda": "18,30",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "128,10"
+  },
+  {
+    "Produto": "Porta Luva",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "0,07"
+  },
+  {
+    "Cód.": "3039773190",
+    "Produto": "Elecsys - Colesterol total CHOL2 (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "133,64",
+    "Vl. Venda": "133,64",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "935,48"
+  },
+  {
+    "Cód.": "11820451122",
+    "Produto": "Elecsys - CellCheck (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "100,21",
+    "Vl. Venda": "100,21",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "701,47"
+  },
+  {
+    "Produto": "Algodão Hidrofilo 500g",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "14,70",
+    "Vl. Venda": "14,70",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "102,90"
+  },
+  {
+    "Produto": "Malote para caixa 17x25",
+    "Categoria": "Outras",
+    "Vl. Custo": "20,20",
+    "Vl. Venda": "20,20",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "141,40"
+  },
+  {
+    "Produto": "Cola Branca 40g",
+    "Categoria": "Outras",
+    "Vl. Custo": "1,20",
+    "Vl. Venda": "1,20",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "8,40"
+  },
+  {
+    "Cód.": "cfcbzd4501",
+    "Produto": "CARTUCHO DE CARVAO:C243ATIVADO 20\"",
+    "Categoria": "Outras",
+    "Vl. Custo": "243,37",
+    "Vl. Venda": "243,37",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "1.703,59"
+  },
+  {
+    "Cód.": "CFYOYT200706",
+    "Produto": "Cartucho em polipropileno 20'' 10UM R520",
+    "Categoria": "Outras",
+    "Vl. Custo": "174,42",
+    "Vl. Venda": "174,42",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "1.220,94"
+  },
+  {
+    "Cód.": "CFYTZD1200",
+    "Produto": "Cartucho em polipropileno 20'' 10UM R1020",
+    "Categoria": "Outras",
+    "Vl. Custo": "172,42",
+    "Vl. Venda": "174,42",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "1.206,94"
+  },
+  {
+    "Produto": "Ácido Cloridrico",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "0,07"
+  },
+  {
+    "Produto": "Etiqueta para capa de exames - rolo",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "27,98",
+    "Vl. Venda": "27,98",
+    "Qtd. Estoque": "7,00",
+    "Custo Total": "195,86"
+  },
+  {
+    "Cód.": "20764957322",
+    "Produto": "Elecsys - TGP / ALTL (Bioquímica)",
+    "Categoria": "Outras",
+    "Vl. Custo": "89,26",
+    "Vl. Venda": "89,26",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "535,56"
+  },
+  {
+    "Produto": "Pilha palito - pacote c/2",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "8,99",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Cód.": "8791686190",
+    "Produto": "Elecsys - Total PSA cobas e 100 V3",
+    "Categoria": "Outras",
+    "Vl. Custo": "208,62",
+    "Vl. Venda": "208,62",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "1.251,72"
+  },
+  {
+    "Cód.": "LC136M2",
+    "Produto": "Filtro de ar LC136M2",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.407,06",
+    "Vl. Venda": "1.407,06",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "8.442,36"
+  },
+  {
+    "Cód.": "LC175",
+    "Produto": "CARTUCHO DE DEIONIZACAO FLEX 3,4,5,6",
+    "Categoria": "Outras",
+    "Vl. Custo": "4.876,77",
+    "Vl. Venda": "4.876,77",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "29.260,62"
+  },
+  {
+    "Produto": "Mexedor para café - pacote c/500",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "6,44",
+    "Vl. Venda": "6,44",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "38,64"
+  },
+  {
+    "Produto": "Capa de exames kids - pacote c/250",
+    "Categoria": "Outras",
+    "Vl. Custo": "37,00",
+    "Vl. Venda": "37,00",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "222,00"
+  },
+  {
+    "Cód.": "7528566190",
+    "Produto": "Elecsys - Colesterol HDL / HDLC4 (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "350,33",
+    "Vl. Venda": "350,33",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "2.101,98"
+  },
+  {
+    "Produto": "Gaveteiro para Coleta",
+    "Categoria": "Outras",
+    "Vl. Custo": "13,60",
+    "Vl. Venda": "13,60",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "81,60"
+  },
+  {
+    "Cód.": "LC109",
+    "Produto": "CARTUCHO ULTRAMICROFILTRO 0,05UM",
+    "Categoria": "Outras",
+    "Vl. Custo": "2.024,22",
+    "Vl. Venda": "2.024,22",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "12.145,32"
+  },
+  {
+    "Cód.": "5589061190",
+    "Produto": "Elecsys - Bilirrubina direta / BILD2 (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "115,49",
+    "Vl. Venda": "115,49",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "692,94"
+  },
+  {
+    "Cód.": "3183807190",
+    "Produto": "Elecsys - Acido Urico / UA2 (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "103,09",
+    "Vl. Venda": "103,09",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "618,54"
+  },
+  {
+    "Produto": "Papel toalha (pacote)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "10,95",
+    "Vl. Venda": "10,95",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "65,70"
+  },
+  {
+    "Cód.": "8828601190",
+    "Produto": "Elecsys - PSA free cobas e 100 (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "208,36",
+    "Vl. Venda": "208,36",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "1.250,16"
+  },
+  {
+    "Produto": "Esponja",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,74",
+    "Vl. Venda": "0,74",
+    "Qtd. Estoque": "6,00",
+    "Custo Total": "4,44"
+  },
+  {
+    "Cód.": "4522630190",
+    "Produto": "ISE Diluent Gen2 cobas c, H",
+    "Categoria": "Outras",
+    "Vl. Custo": "250,00",
+    "Vl. Venda": "250,00",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "1.250,00"
+  },
+  {
+    "Cód.": "11732234122",
+    "Produto": "Elecsys - LH (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "219,90",
+    "Vl. Venda": "219,90",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "1.099,50"
+  },
+  {
+    "Cód.": "5061482190",
+    "Produto": "Elecsys - Calcio / CA2 (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "112,11",
+    "Vl. Venda": "112,11",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "560,55"
+  },
+  {
+    "Cód.": "5618860190",
+    "Produto": "Elecsys - Varia PreciControl - Controle (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "162,80",
+    "Vl. Venda": "162,80",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "814,00"
+  },
+  {
+    "Cód.": "7190794190",
+    "Produto": "Elecsys - Creatina Kinasa / CK (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "88,22",
+    "Vl. Venda": "88,22",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "441,10"
+  },
+  {
+    "Cód.": "5795397190",
+    "Produto": "Elecsys - Bilirrubina Total / BILT2 (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "82,46",
+    "Vl. Venda": "82,46",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "412,30"
+  },
+  {
+    "Cód.": "3271749190",
+    "Produto": "Elecsys - Beta/HCG (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "347,49",
+    "Vl. Venda": "347,49",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "1.737,45"
+  },
+  {
+    "Cód.": "12017547122",
+    "Produto": "Elecsys - Insulina (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "184,61",
+    "Vl. Venda": "184,61",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "923,05"
+  },
+  {
+    "Cód.": "4460715190",
+    "Produto": "Elecsys - UREIA / UREAL (Bioquímica)",
+    "Categoria": "Outras",
+    "Vl. Custo": "49,91",
+    "Vl. Venda": "49,91",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "249,55"
+  },
+  {
+    "Cód.": "4404483190",
+    "Produto": "Elecsys - Glucosa / GLUC3 (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "99,90",
+    "Vl. Venda": "99,90",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "499,50"
+  },
+  {
+    "Produto": "Cartucho Medipure L1  LC174",
+    "Categoria": "Outras",
+    "Vl. Custo": "2.656,21",
+    "Vl. Venda": "2.656,21",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "13.281,05"
+  },
+  {
+    "Produto": "Kit sangue oculto smart test (caixa C/50)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "272,09",
+    "Vl. Venda": "272,09",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "1.360,45"
+  },
+  {
+    "Cód.": "20766623322",
+    "Produto": "Elecsys - Amilase / AMY-P (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "379,24",
+    "Vl. Venda": "379,24",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "1.896,20"
+  },
+  {
+    "Produto": "Touca descartável - pacote c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "19,90",
+    "Vl. Venda": "19,90",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "99,50"
+  },
+  {
+    "Produto": "Controle de coagulograma nivel I",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "74,80",
+    "Vl. Venda": "74,80",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "374,00"
+  },
+  {
+    "Produto": "Luva para limpeza",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "4,90",
+    "Vl. Venda": "4,90",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "24,50"
+  },
+  {
+    "Produto": "Guardanapo",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "1,43",
+    "Vl. Venda": "1,43",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "7,15"
+  },
+  {
+    "Produto": "Detergente liquido  5L",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "14,90",
+    "Vl. Venda": "14,90",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "74,50"
+  },
+  {
+    "Produto": "Porta moedas para balcão",
+    "Categoria": "Outras",
+    "Vl. Custo": "8,30",
+    "Vl. Venda": "8,30",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "41,50"
+  },
+  {
+    "Cód.": "6481647190",
+    "Produto": "Elecsys - Magnesio / MG (Bioquímica)",
+    "Categoria": "Outras",
+    "Vl. Custo": "196,71",
+    "Vl. Venda": "196,71",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "983,55"
+  },
+  {
+    "Cód.": "3004899190",
+    "Produto": "Elecsys - PreClean M (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "83,10",
+    "Vl. Venda": "83,10",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "415,50"
+  },
+  {
+    "Produto": "Caneta Marca texto",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "2,99",
+    "Vl. Venda": "2,99",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "14,95"
+  },
+  {
+    "Produto": "Acido Nalidixico (Antibiótico)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "10,90",
+    "Vl. Venda": "10,90",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "54,50"
+  },
+  {
+    "Produto": "Bag para material biologico (CONGELADO) - pequeno",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "0,05"
+  },
+  {
+    "Produto": "Controle para painel de senha VipColor",
+    "Categoria": "Outras",
+    "Vl. Venda": "0,00",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Placa de acrílico (informação para clientes) - balcão",
+    "Categoria": "Outras",
+    "Vl. Venda": "0,00",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Porta copo (parede) - copo 50ml",
+    "Categoria": "Outras",
+    "Vl. Custo": "28,90",
+    "Vl. Venda": "28,90",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "144,50"
+  },
+  {
+    "Produto": "Suporte alcool gel / sabonete líquido 800 ml",
+    "Categoria": "Outras",
+    "Vl. Custo": "16,90",
+    "Vl. Venda": "16,90",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "84,50"
+  },
+  {
+    "Produto": "Pack Calibração Na/K AVL 9180",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "275,00",
+    "Vl. Venda": "275,00",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "1.375,00"
+  },
+  {
+    "Produto": "Lava Olhos",
+    "Categoria": "Outras",
+    "Vl. Custo": "35,00",
+    "Vl. Venda": "35,00",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "175,00"
+  },
+  {
+    "Cód.": "250",
+    "Produto": "Coletor de fezes (EPF) pacote c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "130,00",
+    "Vl. Venda": "26,00",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "650,00"
+  },
+  {
+    "Cód.": "20764949322",
+    "Produto": "Elecsys - TGO / ASTL (Bioquímica)",
+    "Categoria": "Outras",
+    "Vl. Custo": "89,68",
+    "Vl. Venda": "89,68",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "448,40"
+  },
+  {
+    "Cód.": "4491785190",
+    "Produto": "Elecsys - Ferritina (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "385,01",
+    "Vl. Venda": "385,01",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "1.925,05"
+  },
+  {
+    "Cód.": "3333752190",
+    "Produto": "Elecsys - Fosfatasa alcalina / ALP 2S (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "48,94",
+    "Vl. Venda": "48,94",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "244,70"
+  },
+  {
+    "Cód.": "6656021190",
+    "Produto": "Elecsys - Estradiol III (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "267,08",
+    "Vl. Venda": "267,08",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "1.335,40"
+  },
+  {
+    "Cód.": "4489357190",
+    "Produto": "Elecsys - NACl 9% Dil / NACL",
+    "Categoria": "Outras",
+    "Vl. Custo": "10,30",
+    "Vl. Venda": "10,30",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "51,50"
+  },
+  {
+    "Cód.": "8924163190",
+    "Produto": "Elecsys - HIV combi PT (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "364,81",
+    "Vl. Venda": "364,81",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "1.824,05"
+  },
+  {
+    "Produto": "Kit DNA (sangue)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "0,05"
+  },
+  {
+    "Cód.": "3002721122",
+    "Produto": "Elecsys - Gamma / GGT-2 (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "110,84",
+    "Vl. Venda": "110,84",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "554,20"
+  },
+  {
+    "Produto": "Escalpe a vácuo 23g",
+    "Categoria": "Outras",
+    "Vl. Custo": "42,00",
+    "Vl. Venda": "42,00",
+    "Qtd. Estoque": "5,00",
+    "Custo Total": "210,00"
+  },
+  {
+    "Produto": "Suporte alcool gel / sabonete líquido",
+    "Categoria": "Outras",
+    "Vl. Custo": "18,00",
+    "Vl. Venda": "18,00",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "72,00"
+  },
+  {
+    "Cód.": "7876033190",
+    "Produto": "CRP4, 250T, cobas c 311/501/502,Integra",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "621,59",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Pipetador Automático 100ul",
+    "Categoria": "Outras",
+    "Vl. Custo": "125,00",
+    "Vl. Venda": "125,00",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "500,00"
+  },
+  {
+    "Produto": "Calculadora",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "0,04"
+  },
+  {
+    "Cód.": "4522320190",
+    "Produto": "ISE Int.Stand Gen2 cobas",
+    "Categoria": "Outras",
+    "Vl. Custo": "250,00",
+    "Vl. Venda": "250,00",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "1.000,00"
+  },
+  {
+    "Cód.": "7142056190",
+    "Produto": "Elecsys - PT CalSet - Calibrator",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.213,91",
+    "Vl. Venda": "1.213,91",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "4.855,64"
+  },
+  {
+    "Produto": "Ceftazidima (Antibiótico)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "10,90",
+    "Vl. Venda": "10,90",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "43,60"
+  },
+  {
+    "Produto": "Elástico 1200 unidade",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "44,90",
+    "Vl. Venda": "44,90",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "179,60"
+  },
+  {
+    "Cód.": "4813707001",
+    "Produto": "Elecsys - LAMP HALOGEN / HITACHI",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.261,94",
+    "Vl. Venda": "1.261,94",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "5.047,76"
+  },
+  {
+    "Cód.": "3183688122",
+    "Produto": "Elecsys - Albúmina / ALB2 (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "78,36",
+    "Vl. Venda": "78,36",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "313,44"
+  },
+  {
+    "Cód.": "11183974216",
+    "Produto": "Elecsys - Ise Standard Low",
+    "Categoria": "Outras",
+    "Vl. Custo": "73,51",
+    "Vl. Venda": "73,51",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "294,04"
+  },
+  {
+    "Cód.": "11706802001",
+    "Produto": "Elecsys - ASSAYCUP (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "221,29",
+    "Vl. Venda": "221,29",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "885,16"
+  },
+  {
+    "Produto": "Limpador casa e perfume 500ml",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "3,90",
+    "Vl. Venda": "3,90",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "15,60"
+  },
+  {
+    "Produto": "VDRL",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "36,75",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Sacola branca c/ logo Gram - pacote c/250",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "78,75",
+    "Vl. Venda": "78,75",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "315,00"
+  },
+  {
+    "Cód.": "11729306122",
+    "Produto": "Elecsys - BlankCel (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "42,67",
+    "Vl. Venda": "42,67",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "170,68"
+  },
+  {
+    "Cód.": "3183971122",
+    "Produto": "Elecsys - Diluent Universal (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "26,43",
+    "Vl. Venda": "26,43",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "105,72"
+  },
+  {
+    "Cód.": "3183793122",
+    "Produto": "Elecsys - Fosforo / PHOS (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "83,69",
+    "Vl. Venda": "83,69",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "334,76"
+  },
+  {
+    "Cód.": "11183982216",
+    "Produto": "Elecsys - Ise Standard high",
+    "Categoria": "Outras",
+    "Vl. Custo": "67,85",
+    "Vl. Venda": "67,85",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "271,40"
+  },
+  {
+    "Cód.": "5341787190",
+    "Produto": "Elecsys - Multimarker PreciControl - Controle  (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "94,75",
+    "Vl. Venda": "94,75",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "379,00"
+  },
+  {
+    "Cód.": "11820591122",
+    "Produto": "Elecsys - Anti-HAV IgM (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "421,98",
+    "Vl. Venda": "421,98",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "1.687,92"
+  },
+  {
+    "Produto": "Norfloxacina (Antibiótico)",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "11,00",
+    "Vl. Venda": "11,00",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "44,00"
+  },
+  {
+    "Cód.": "3203093190",
+    "Produto": "Elecsys - Prolactina (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "237,76",
+    "Vl. Venda": "237,76",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "951,04"
+  },
+  {
+    "Cód.": "4827031190",
+    "Produto": "Elecsys - IGE II (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "301,84",
+    "Vl. Venda": "301,84",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "1.207,36"
+  },
+  {
+    "Produto": "Tubo de vidro 15x100 - caixa c/ 250",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "52,50",
+    "Vl. Venda": "52,50",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "210,00"
+  },
+  {
+    "Produto": "Tubo de vidro 12x75 - caixa c/ 250 (Hemólise)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "23,80",
+    "Vl. Venda": "23,80",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "95,20"
+  },
+  {
+    "Cód.": "6368590190",
+    "Produto": "Elecsys - Anti-TPO (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "185,59",
+    "Vl. Venda": "185,59",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "742,36"
+  },
+  {
+    "Produto": "Swab seco - caixa c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "16,90",
+    "Vl. Venda": "16,90",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "67,60"
+  },
+  {
+    "Produto": "Saco p/ lixo comum 60L - pacote c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "18,90",
+    "Vl. Venda": "18,90",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "75,60"
+  },
+  {
+    "Produto": "Cotrimoxazol / Sulfa+trim (Antibiótico)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "11,00",
+    "Vl. Venda": "11,00",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "44,00"
+  },
+  {
+    "Cód.": "6390552001",
+    "Produto": "Cobas u cuvette (400 pc)",
+    "Categoria": "Outras",
+    "Vl. Custo": "802,42",
+    "Vl. Venda": "802,42",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "3.209,68"
+  },
+  {
+    "Cód.": "7559992190",
+    "Produto": "Elecsys - Folate III (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "230,10",
+    "Vl. Venda": "230,10",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "920,40"
+  },
+  {
+    "Produto": "Ceftriaxona (Antibiótico)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "11,00",
+    "Vl. Venda": "11,00",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "44,00"
+  },
+  {
+    "Produto": "Escalpe 23G (azul) - caixa c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "34,45",
+    "Vl. Venda": "34,45",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "137,80"
+  },
+  {
+    "Produto": "Amicacina (Antibiótico)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "11,00",
+    "Vl. Venda": "11,00",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "44,00"
+  },
+  {
+    "Cód.": "11706799001",
+    "Produto": "Elecsys - ASSAY TIP (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "219,96",
+    "Vl. Venda": "219,96",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "879,84"
+  },
+  {
+    "Produto": "Cefaclor",
+    "Categoria": "Outras",
+    "Vl. Custo": "10,50",
+    "Vl. Venda": "10,50",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "42,00"
+  },
+  {
+    "Cód.": "11731416190",
+    "Produto": "Elecsys - Universal PreciControl - Controle (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "130,65",
+    "Vl. Venda": "130,65",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "522,60"
+  },
+  {
+    "Produto": "Ciprofloxacina (Antibiótico)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "11,00",
+    "Vl. Venda": "11,00",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "44,00"
+  },
+  {
+    "Produto": "Gentamicina (Antibiótico)",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "11,00",
+    "Vl. Venda": "11,00",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "44,00"
+  },
+  {
+    "Produto": "Cefalexina (Antibiótico)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "11,00",
+    "Vl. Venda": "11,00",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "44,00"
+  },
+  {
+    "Produto": "Nitrofurantoina (Antibiótico)",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "11,00",
+    "Vl. Venda": "11,00",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "44,00"
+  },
+  {
+    "Cód.": "6390544001",
+    "Produto": "Waste Box Carton",
+    "Categoria": "Outras",
+    "Vl. Custo": "93,89",
+    "Vl. Venda": "93,89",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "375,56"
+  },
+  {
+    "Cód.": "12102137001",
+    "Produto": "Elecsys - Assay Tip/Cup (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "599,07",
+    "Vl. Venda": "599,07",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "2.396,28"
+  },
+  {
+    "Cód.": "9005803190",
+    "Produto": "Elecsys - FT3 (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "247,00",
+    "Vl. Venda": "247,00",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "988,00"
+  },
+  {
+    "Produto": "Levofloxacina (Antibiótico)",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "11,00",
+    "Vl. Venda": "11,00",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "44,00"
+  },
+  {
+    "Produto": "Fosfomicina (Antibiótico)",
+    "Categoria": "Outras",
+    "Vl. Custo": "20,90",
+    "Vl. Venda": "20,90",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "83,60"
+  },
+  {
+    "Produto": "Suporte de papel toalha",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "22,80",
+    "Vl. Venda": "22,80",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "91,20"
+  },
+  {
+    "Cód.": "3004732122",
+    "Produto": "Elecsys - Lactato Desidrogenasa / LDHI2 (Bioquímica)",
+    "Categoria": "Outras",
+    "Vl. Custo": "207,61",
+    "Vl. Venda": "207,61",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "830,44"
+  },
+  {
+    "Produto": "Acido Clavulanico (Antibiótico)",
+    "Categoria": "Outras",
+    "Vl. Custo": "10,90",
+    "Vl. Venda": "10,90",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "43,60"
+  },
+  {
+    "Cód.": "3183734190",
+    "Produto": "Elecsys - ProteinasTotales / TP2 (Bioquímica)",
+    "Categoria": "Outras",
+    "Vl. Custo": "37,23",
+    "Vl. Venda": "37,23",
+    "Qtd. Estoque": "4,00",
+    "Custo Total": "148,92"
+  },
+  {
+    "Cód.": "4880307190",
+    "Produto": "Elecsys - Cell Wash Solution II / Acid wash",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "51,62",
+    "Vl. Venda": "51,62",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "154,86"
+  },
+  {
+    "Produto": "Albumina Bovina",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "27,50",
+    "Vl. Venda": "27,50",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "82,50"
+  },
+  {
+    "Produto": "ASLO / ASO",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "40,00",
+    "Vl. Venda": "40,00",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "120,00"
+  },
+  {
+    "Produto": "Probe Cleanser",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "84,00",
+    "Vl. Venda": "84,00",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "252,00"
+  },
+  {
+    "Produto": "Bobina de coagulograma (Wama) - caixa c/18",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "83,52",
+    "Vl. Venda": "83,52",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "250,56"
+  },
+  {
+    "Produto": "kit clamidia (Speciemen collection kit)",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "0,03"
+  },
+  {
+    "Cód.": "8086630190",
+    "Produto": "Elecsys Anti-HAV G2",
+    "Categoria": "Outras",
+    "Vl. Custo": "536,22",
+    "Vl. Venda": "536,22",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "1.608,66"
+  },
+  {
+    "Cód.": "8814856190",
+    "Produto": "Elecsys - HBsAg G2 Elecsys cobas e 100 V2 (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "640,06",
+    "Vl. Venda": "640,06",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "1.920,18"
+  },
+  {
+    "Produto": "Hipoclorito 5L 2,5%",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "12,20",
+    "Vl. Venda": "12,20",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "36,60"
+  },
+  {
+    "Cód.": "4618840190",
+    "Produto": "Elecsys - Rubella IgM PreciControl - Controle (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "250,98",
+    "Vl. Venda": "250,98",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "752,94"
+  },
+  {
+    "Cód.": "7092539190",
+    "Produto": "Elecsys - Progesterona (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "227,54",
+    "Vl. Venda": "227,54",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "682,62"
+  },
+  {
+    "Cód.": "11820435122",
+    "Produto": "Elecsys - SAP-TEST (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "117,32",
+    "Vl. Venda": "117,32",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "351,96"
+  },
+  {
+    "Cód.": "4618815190",
+    "Produto": "Elecsys - Toxo IgG (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "269,86",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Grafite 07",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "0,03"
+  },
+  {
+    "Produto": "Hemocultura Pediátrico",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "0,03"
+  },
+  {
+    "Produto": "Saco virgem 25x35 (1kg) - saco transparente M",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "18,30",
+    "Vl. Venda": "18,30",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "54,90"
+  },
+  {
+    "Produto": "Álcool 92.8% 1L",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "7,94",
+    "Vl. Venda": "7,94",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "23,82"
+  },
+  {
+    "Produto": "Livro de protocolo de correspondência",
+    "Categoria": "Outras",
+    "Vl. Custo": "14,50",
+    "Vl. Venda": "14,50",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "43,50"
+  },
+  {
+    "Produto": "Caixa de acrílico para sugestão",
+    "Categoria": "Outras",
+    "Vl. Custo": "68,12",
+    "Vl. Venda": "68,12",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "204,36"
+  },
+  {
+    "Produto": "Régua",
+    "Categoria": "Outras",
+    "Vl. Custo": "1,60",
+    "Vl. Venda": "1,60",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "4,80"
+  },
+  {
+    "Produto": "Pipetador Automático 1000ul",
+    "Categoria": "Outras",
+    "Vl. Custo": "23,00",
+    "Vl. Venda": "23,00",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "69,00"
+  },
+  {
+    "Produto": "Suporte para descarpack pequeno",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "0,03"
+  },
+  {
+    "Produto": "Tinta para carimbo",
+    "Categoria": "Outras",
+    "Vl. Custo": "13,40",
+    "Vl. Venda": "13,40",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "40,20"
+  },
+  {
+    "Produto": "Pipetador Automático 50ul",
+    "Categoria": "Outras",
+    "Vl. Custo": "120,00",
+    "Vl. Venda": "120,00",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "360,00"
+  },
+  {
+    "Produto": "Apontador",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,45",
+    "Vl. Venda": "0,45",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "1,35"
+  },
+  {
+    "Produto": "Gancho",
+    "Categoria": "Outras",
+    "Vl. Custo": "5,99",
+    "Vl. Venda": "5,99",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "17,97"
+  },
+  {
+    "Produto": "Jarra nobile 700ml (Chá)",
+    "Categoria": "Outras",
+    "Vl. Custo": "5,99",
+    "Vl. Venda": "5,99",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "17,97"
+  },
+  {
+    "Cód.": "9007725190",
+    "Produto": "T3 Elecsys cobas e 200 V2",
+    "Categoria": "Outras",
+    "Vl. Custo": "211,43",
+    "Vl. Venda": "211,43",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "634,29"
+  },
+  {
+    "Produto": "Cesta organizadora para coleta",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "4,99",
+    "Vl. Venda": "4,99",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "14,97"
+  },
+  {
+    "Produto": "Porta crachá retrátil",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "3,98",
+    "Vl. Venda": "3,98",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "11,94"
+  },
+  {
+    "Cód.": "4810716190",
+    "Produto": "Elecsys - Creatinine Jaffe / CREJ2 (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "59,39",
+    "Vl. Venda": "59,39",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "178,17"
+  },
+  {
+    "Cód.": "9007741190",
+    "Produto": "T4 Elecsys cobas e 200 V3",
+    "Categoria": "Outras",
+    "Vl. Custo": "234,15",
+    "Vl. Venda": "234,15",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "702,45"
+  },
+  {
+    "Cód.": "4537939190",
+    "Produto": "Elecsys - Fructosamina / FRA (Bioquímica)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "82,63",
+    "Vl. Venda": "82,63",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "247,89"
+  },
+  {
+    "Cód.": "6427405190",
+    "Produto": "Elecsys -  Anti-HCV (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.117,28",
+    "Vl. Venda": "1.117,28",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "3.351,84"
+  },
+  {
+    "Produto": "Tetraciclina (Antibiótico)",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "10,90",
+    "Vl. Venda": "10,90",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "32,70"
+  },
+  {
+    "Cód.": "11820567122",
+    "Produto": "Elecsys - Anti-HBc IgM (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "394,62",
+    "Vl. Venda": "394,62",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "1.183,86"
+  },
+  {
+    "Produto": "Coletor Tubete de Urina tampa vermelha (cultura/estéril) - pacote c/150",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "102,00",
+    "Vl. Venda": "102,00",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "306,00"
+  },
+  {
+    "Cód.": "8946353190",
+    "Produto": "Elecsys - Testosterona (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "267,45",
+    "Vl. Venda": "267,45",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "802,35"
+  },
+  {
+    "Produto": "Lanceta automática 23G",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "28,00",
+    "Vl. Venda": "28,00",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "84,00"
+  },
+  {
+    "Produto": "Dextrosol/glutol sabor Laranja (gluc-up 75)",
+    "Categoria": "Outras",
+    "Vl. Custo": "5,70",
+    "Vl. Venda": "5,70",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "17,10"
+  },
+  {
+    "Cód.": "8932352190",
+    "Produto": "Elecsys - FSH (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "230,13",
+    "Vl. Venda": "230,13",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "690,39"
+  },
+  {
+    "Produto": "Açúcar refinado 1kg",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "2,50",
+    "Vl. Venda": "2,50",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "7,50"
+  },
+  {
+    "Cód.": "9004998190",
+    "Produto": "Elecsys - Anti-TG \"tiroglobulina\" (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "293,81",
+    "Vl. Venda": "293,81",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "881,43"
+  },
+  {
+    "Cód.": "9118543190",
+    "Produto": "Elecsys - CMV IgG (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "387,83",
+    "Vl. Venda": "387,83",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "1.163,49"
+  },
+  {
+    "Cód.": "4618831190",
+    "Produto": "Elecsys - Rubella IgM (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "633,70",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Luva descatavel",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "2,00",
+    "Vl. Venda": "2,00",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "6,00"
+  },
+  {
+    "Cód.": "5042666191",
+    "Produto": "Elecsys - Thyro AB PreciContro - Controle (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "108,01",
+    "Vl. Venda": "108,01",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "324,03"
+  },
+  {
+    "Produto": "Ampicilina (Antibiótico)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "11,00",
+    "Vl. Venda": "11,00",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "33,00"
+  },
+  {
+    "Cód.": "200",
+    "Produto": "Coletor Porta lamina preventivo (citologia) - pacote c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "55,00",
+    "Vl. Venda": "55,00",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "165,00"
+  },
+  {
+    "Cód.": "4784600190",
+    "Produto": "Elecsys - Controle CMV IgG (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "167,46",
+    "Vl. Venda": "167,46",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "502,38"
+  },
+  {
+    "Cód.": "6924107190",
+    "Produto": "Elecsys - HIV PreciControl Gen II - Controle (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "129,01",
+    "Vl. Venda": "129,01",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "387,03"
+  },
+  {
+    "Cód.": "11731629322",
+    "Produto": "Elecsys - CEA - Antígeno carcinoembrionario (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "507,31",
+    "Vl. Venda": "507,31",
+    "Qtd. Estoque": "3,00",
+    "Custo Total": "1.521,93"
+  },
+  {
+    "Cód.": "4618793190",
+    "Produto": "Elecsys - Rubella IgG (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "379,99",
+    "Vl. Venda": "379,99",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "759,98"
+  },
+  {
+    "Produto": "Adoçante Sache Zero-Cal caixa c/1000",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "61,50",
+    "Vl. Venda": "61,50",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "123,00"
+  },
+  {
+    "Produto": "Caneta",
+    "Categoria": "Outras",
+    "Vl. Custo": "1,00",
+    "Vl. Venda": "1,00",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "2,00"
+  },
+  {
+    "Cód.": "8851964190",
+    "Produto": "Elecsys - Free PSA CalSet",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "38,75",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Cód.": "11174118122",
+    "Produto": "Elecsys - PRECIPATH FRUC - Controle",
+    "Categoria": "Outras",
+    "Vl. Custo": "51,57",
+    "Vl. Venda": "51,57",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "103,14"
+  },
+  {
+    "Produto": "Pasta Catalogo",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "16,90",
+    "Vl. Venda": "16,90",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "33,80"
+  },
+  {
+    "Cód.": "5912504190",
+    "Produto": "Elecsys - HBA1c Path PreciControl",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "337,77",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Cód.": "5151643001",
+    "Produto": "MEASURING CELL WITH REF. ELEC",
+    "Categoria": "Outras",
+    "Vl. Custo": "14.705,10",
+    "Vl. Venda": "14.705,10",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "29.410,20"
+  },
+  {
+    "Cód.": "11776576322",
+    "Produto": "Elecsys - CalSet Vials (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "121,71",
+    "Vl. Venda": "121,71",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "243,42"
+  },
+  {
+    "Produto": "Prancheta acrilico oficio",
+    "Categoria": "Outras",
+    "Vl. Venda": "0,00",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Bolsa térmica",
+    "Categoria": "Outras",
+    "Vl. Venda": "0,00",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Lixeira para copo descartável - copos 50ml / 200ml",
+    "Categoria": "Outras",
+    "Vl. Custo": "28,90",
+    "Vl. Venda": "28,90",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "57,80"
+  },
+  {
+    "Cód.": "6656048190",
+    "Produto": "Elecsys - Estradiol CalSet - Calibrador (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "97,58",
+    "Vl. Venda": "97,58",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "195,16"
+  },
+  {
+    "Cód.": "5117003190",
+    "Produto": "Elecsys - ClinChem Multi 1 PreciControl  - Controle",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "255,44",
+    "Vl. Venda": "255,44",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "510,88"
+  },
+  {
+    "Produto": "Perfex (rolo)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "21,99",
+    "Vl. Venda": "21,99",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "43,98"
+  },
+  {
+    "Produto": "Sabão Alcalino 5L",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "65,00",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Cód.": "11098985122",
+    "Produto": "Elecsys - PRECINORM FRUC - Controle",
+    "Categoria": "Outras",
+    "Vl. Custo": "68,08",
+    "Vl. Venda": "68,08",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "136,16"
+  },
+  {
+    "Produto": "Taça de cristal media",
+    "Categoria": "Outras",
+    "Vl. Custo": "17,90",
+    "Vl. Venda": "17,90",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "35,80"
+  },
+  {
+    "Produto": "Taça de cristal grande (fruteira)",
+    "Categoria": "Outras",
+    "Vl. Custo": "26,90",
+    "Vl. Venda": "26,90",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "53,80"
+  },
+  {
+    "Cód.": "6510256001",
+    "Produto": "Elecsys - FLUOROCELL WDF 2 X 42ML (HEMATOLOGIA)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.282,89",
+    "Vl. Venda": "1.282,89",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "2.565,78"
+  },
+  {
+    "Cód.": "7204736190",
+    "Produto": "Elecsys - Day Clean",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "88,75",
+    "Vl. Venda": "88,75",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "177,50"
+  },
+  {
+    "Produto": "Porta Algodão",
+    "Categoria": "Outras",
+    "Vl. Custo": "46,00",
+    "Vl. Venda": "46,00",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "92,00"
+  },
+  {
+    "Produto": "Caixa Organizadora G",
+    "Categoria": "Outras",
+    "Vl. Custo": "38,90",
+    "Vl. Venda": "38,90",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "77,80"
+  },
+  {
+    "Cód.": "8498598190",
+    "Produto": "Anti-HBs G2 Elecsys cobas e 100 V2",
+    "Categoria": "Outras",
+    "Vl. Custo": "329,74",
+    "Vl. Venda": "329,74",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "659,48"
+  },
+  {
+    "Cód.": "5463190001",
+    "Produto": "Elecsys - CUP-ADAPTER FOR STD RACK,W/O TUBE_ROTAT (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "570,02",
+    "Vl. Venda": "570,02",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "1.140,04"
+  },
+  {
+    "Cód.": "4633938001",
+    "Produto": "VALVE 707-2309",
+    "Categoria": "Outras",
+    "Vl. Custo": "444,89",
+    "Vl. Venda": "444,89",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "889,78"
+  },
+  {
+    "Produto": "Bandeija",
+    "Categoria": "Outras",
+    "Vl. Custo": "5,99",
+    "Vl. Venda": "5,99",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "11,98"
+  },
+  {
+    "Cód.": "9014918190",
+    "Produto": "Elecsys - Anti-HBc II (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "392,87",
+    "Vl. Venda": "392,87",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "785,74"
+  },
+  {
+    "Produto": "Cafeteira",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "0,02"
+  },
+  {
+    "Cód.": "11561677001",
+    "Produto": "Diaphragm vac.pumpu new707-230",
+    "Categoria": "Outras",
+    "Vl. Custo": "717,41",
+    "Vl. Venda": "717,41",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "1.434,82"
+  },
+  {
+    "Cód.": "UVEGBU200996",
+    "Produto": "LAMPADA LC105",
+    "Categoria": "Outras",
+    "Vl. Custo": "737,84",
+    "Vl. Venda": "737,84",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "1.475,68"
+  },
+  {
+    "Produto": "Sabão em pó 1kg",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "5,98",
+    "Vl. Venda": "5,98",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "11,96"
+  },
+  {
+    "Cód.": "11488457122",
+    "Produto": "Elecsys - Haemolyse Reagent f.HBA1C",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "142,68",
+    "Vl. Venda": "142,68",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "285,36"
+  },
+  {
+    "Cód.": "5064210001",
+    "Produto": "Elecsys - CPC / t 411 Cuvette bar",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.224,20",
+    "Vl. Venda": "1.224,20",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "2.448,40"
+  },
+  {
+    "Produto": "Gama GT - test cinética (GGT) 100ml",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "206,10",
+    "Vl. Venda": "206,10",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "412,20"
+  },
+  {
+    "Produto": "Sabonete Liquido 5L",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "18,86",
+    "Vl. Venda": "18,86",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "37,72"
+  },
+  {
+    "Cód.": "3609987190",
+    "Produto": "ELECSYS DIL MULTI ASSAY (IMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "852,72",
+    "Vl. Venda": "852,72",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "1.705,44"
+  },
+  {
+    "Produto": "Escova de lavar",
+    "Categoria": "Outras",
+    "Vl. Custo": "2,79",
+    "Vl. Venda": "2,79",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "5,58"
+  },
+  {
+    "Cód.": "11876333122",
+    "Produto": "Elecsys - Controle Anti-HBc IgM (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "269,79",
+    "Vl. Venda": "269,79",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "539,58"
+  },
+  {
+    "Cód.": "9038116190",
+    "Produto": "Elecsys - Vitamina D Cal Set - Calibrador (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "421,19",
+    "Vl. Venda": "421,19",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "842,38"
+  },
+  {
+    "Produto": "Almofada para carimbo",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "0,02"
+  },
+  {
+    "Cód.": "5117216190",
+    "Produto": "Elecsys - ClinChem Multi 2 PreciControl  - Controle",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "568,95",
+    "Vl. Venda": "568,95",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "1.137,90"
+  },
+  {
+    "Produto": "Pipetador Automático 500ul",
+    "Categoria": "Outras",
+    "Vl. Custo": "121,00",
+    "Vl. Venda": "121,00",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "242,00"
+  },
+  {
+    "Cód.": "5479207190",
+    "Produto": "Elecsys - HBA1c  PreciControl",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "341,77",
+    "Vl. Venda": "341,77",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "683,54"
+  },
+  {
+    "Produto": "Corretivo",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "3,90",
+    "Vl. Venda": "3,90",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "7,80"
+  },
+  {
+    "Cód.": "10759350190",
+    "Produto": "Elecsys - Cfas - Calibrador",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "143,77",
+    "Vl. Venda": "143,77",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "287,54"
+  },
+  {
+    "Cód.": "7105339190",
+    "Produto": "Elecsys - Control 2 - Controle",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "712,92",
+    "Vl. Venda": "712,92",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "1.425,84"
+  },
+  {
+    "Cód.": "8086672190",
+    "Produto": "Elecsys Anti-HAV G2 PC",
+    "Categoria": "Outras",
+    "Vl. Custo": "249,73",
+    "Vl. Venda": "249,73",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "499,46"
+  },
+  {
+    "Produto": "Pinça anatomica dente de rato",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "0,02"
+  },
+  {
+    "Produto": "Banner 60x0,80",
+    "Categoria": "Outras",
+    "Vl. Venda": "0,00",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Ágar Mueller Hinton 150 pacote c/ 10 placas",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "58,62",
+    "Vl. Venda": "58,62",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "117,24"
+  },
+  {
+    "Produto": "Lamínulas 20x20 (caixa)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "41,60",
+    "Vl. Venda": "41,60",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "83,20"
+  },
+  {
+    "Cód.": "5406668001",
+    "Produto": "Elecsys - SULFOLYSER 5L (HEMATOLOGIA)",
+    "Categoria": "Outras",
+    "Vl. Custo": "407,88",
+    "Vl. Venda": "407,88",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "815,76"
+  },
+  {
+    "Cód.": "3060039001",
+    "Produto": "TUBE CELL ASSY",
+    "Categoria": "Outras",
+    "Vl. Custo": "866,97",
+    "Vl. Venda": "866,97",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "1.733,94"
+  },
+  {
+    "Produto": "Grampo grande 23x13 (caixa)",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "5,70",
+    "Vl. Venda": "8,20",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "11,40"
+  },
+  {
+    "Produto": "Suporte para descarpack grande",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "0,02"
+  },
+  {
+    "Cód.": "5979854190",
+    "Produto": "INTERNAL STANDARD INSERT, ISE",
+    "Categoria": "Outras",
+    "Vl. Custo": "160,00",
+    "Vl. Venda": "160,00",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "320,00"
+  },
+  {
+    "Cód.": "7105100190",
+    "Produto": "Elecsys - Control 1 - Controle",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "731,46",
+    "Vl. Venda": "731,46",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "1.462,92"
+  },
+  {
+    "Produto": "Pipetador Automático 05ul",
+    "Categoria": "Outras",
+    "Vl. Custo": "23,00",
+    "Vl. Venda": "23,00",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "46,00"
+  },
+  {
+    "Cód.": "3005712190",
+    "Produto": "Elecsys - Probe Wash M (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "74,90",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Coletor de urina infantil caixa c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "42,75",
+    "Vl. Venda": "42,75",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "85,50"
+  },
+  {
+    "Cód.": "3753379001",
+    "Produto": "Elecsys - PINCH TUBE E 170  ( 4 PCS ) (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "111,77",
+    "Vl. Venda": "111,77",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "223,54"
+  },
+  {
+    "Cód.": "5047692001",
+    "Produto": "Elecsys - P NOZZLE 3 BOX ASSY  (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "3.456,81",
+    "Vl. Venda": "3.456,81",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "6.913,62"
+  },
+  {
+    "Produto": "Biscoito Bauducco Cream Cracker caixa c/370",
+    "Categoria": "Outras",
+    "Vl. Custo": "99,10",
+    "Vl. Venda": "99,10",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "198,20"
+  },
+  {
+    "Cód.": "11875116122",
+    "Produto": "Elecsys - CORT - Cortisol (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "577,70",
+    "Vl. Venda": "577,70",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "1.155,40"
+  },
+  {
+    "Cód.": "7837984001",
+    "Produto": "Elecsys - LYSERCELL-WDF (HEMATOLOGIA)",
+    "Categoria": "Outras",
+    "Vl. Custo": "568,65",
+    "Vl. Venda": "568,65",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "1.137,30"
+  },
+  {
+    "Cód.": "4892470190",
+    "Produto": "Elecsys - PTH Stat (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "547,86",
+    "Vl. Venda": "547,86",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "1.095,72"
+  },
+  {
+    "Cód.": "4618858190",
+    "Produto": "Elecsys - Toxo IgM (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "434,99",
+    "Vl. Venda": "434,99",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "869,98"
+  },
+  {
+    "Cód.": "6472931190",
+    "Produto": "Elecsys - Anti-TPO CalSet - Calibrador (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "84,76",
+    "Vl. Venda": "84,76",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "169,52"
+  },
+  {
+    "Produto": "Garrafa termica 1L (cafeteira)",
+    "Categoria": "Outras",
+    "Vl. Custo": "84,10",
+    "Vl. Venda": "84,10",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "168,20"
+  },
+  {
+    "Produto": "Almotolia",
+    "Categoria": "Outras",
+    "Vl. Custo": "3,90",
+    "Vl. Venda": "3,90",
+    "Qtd. Estoque": "2,00",
+    "Custo Total": "7,80"
+  },
+  {
+    "Cód.": "8321949001",
+    "Produto": "KIT MAINTENANCE T411",
+    "Categoria": "Outras",
+    "Vl. Custo": "5.473,09",
+    "Vl. Venda": "5.473,09",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "5.473,09"
+  },
+  {
+    "Cód.": "8932417190",
+    "Produto": "Elecsys - FSH CalSet - Calibrador (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "63,57",
+    "Vl. Venda": "63,57",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "63,57"
+  },
+  {
+    "Cód.": "4618866190",
+    "Produto": "Elecsys - Toxo IgM Precicontrol (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "227,68",
+    "Vl. Venda": "227,68",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "227,68"
+  },
+  {
+    "Cód.": "4555040001",
+    "Produto": "Elecsys - Cell Set / Reaction cell for c311 (18 pcs)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "2.688,41",
+    "Vl. Venda": "2.688,41",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "2.688,41"
+  },
+  {
+    "Cód.": "7255926190",
+    "Produto": "Elecsys - CleanSol",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "195,61",
+    "Vl. Venda": "195,61",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "195,61"
+  },
+  {
+    "Produto": "Biscoito Amanteigado Baudocco Leite Caixa c/400",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "123,40",
+    "Vl. Venda": "123,40",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "123,40"
+  },
+  {
+    "Cód.": "6510205001",
+    "Produto": "Elecsys - CELLPACK DFL 2 x 1.5L (HEMATOLOGIA)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "225,79",
+    "Vl. Venda": "225,79",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "225,79"
+  },
+  {
+    "Cód.": "8838534190",
+    "Produto": "Elecsys - Total PSA G2 CS",
+    "Categoria": "Outras",
+    "Vl. Custo": "63,12",
+    "Vl. Venda": "63,12",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "63,12"
+  },
+  {
+    "Produto": "Álcool Gel 70% 4,3 kg",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "78,00",
+    "Vl. Venda": "78,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "78,00"
+  },
+  {
+    "Produto": "Biscoito Amanteigado Bauducco Banana caixa c/400",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "123,40",
+    "Vl. Venda": "123,40",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "123,40"
+  },
+  {
+    "Cód.": "9038124190",
+    "Produto": "Elecsys - Vitamina D PreciControl - Controle (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "189,71",
+    "Vl. Venda": "189,71",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "189,71"
+  },
+  {
+    "Cód.": "10394246001",
+    "Produto": "Cobas sample cup 5000pcs",
+    "Categoria": "Outras",
+    "Vl. Custo": "634,26",
+    "Vl. Venda": "634,26",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "634,26"
+  },
+  {
+    "Produto": "Papel filtro (caixa)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "26,99",
+    "Vl. Venda": "26,99",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "26,99"
+  },
+  {
+    "Produto": "Pasta aba c/ elastico 40mn",
+    "Categoria": "Outras",
+    "Vl. Venda": "0,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Cód.": "4784618190",
+    "Produto": "Elecsys - CMV IgM (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "407,41",
+    "Vl. Venda": "407,41",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "407,41"
+  },
+  {
+    "Produto": "WR",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "118,50",
+    "Vl. Venda": "118,50",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "118,50"
+  },
+  {
+    "Cód.": "3277356190",
+    "Produto": "Elecsys - Prolactin - Calibrador (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "99,13",
+    "Vl. Venda": "99,13",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "99,13"
+  },
+  {
+    "Cód.": "6975445001",
+    "Produto": "Elecsys - Cellclean Auto (CCA-500A) (HEMATOLOGIA)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "176,80",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Azul de Cresil Brilhante",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "33,00",
+    "Vl. Venda": "33,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "33,00"
+  },
+  {
+    "Produto": "Controle ESR CHEX",
+    "Categoria": "Outras",
+    "Vl. Custo": "991,09",
+    "Vl. Venda": "991,09",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "991,09"
+  },
+  {
+    "Produto": "Controle de Hemoglobina",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "695,00",
+    "Vl. Venda": "695,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "695,00"
+  },
+  {
+    "Cód.": "7103484190",
+    "Produto": "Elecsys - CC 25mM",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "159,85",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Cód.": "3149501001",
+    "Produto": "HITACHI/COBAS ELETRODO REFERE",
+    "Categoria": "Outras",
+    "Vl. Custo": "2.222,06",
+    "Vl. Venda": "2.222,06",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "2.222,06"
+  },
+  {
+    "Cód.": "11933159001",
+    "Produto": "Elecsys - Adapter Sys clean Ku fbl",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "2,92",
+    "Vl. Venda": "2,92",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "2,92"
+  },
+  {
+    "Produto": "Magnésio (MG - Color)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "64,80",
+    "Vl. Venda": "64,80",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "64,80"
+  },
+  {
+    "Cód.": "3027651001",
+    "Produto": "Sys Bottle 2 Assy (2pcs/set)",
+    "Categoria": "Outras",
+    "Vl. Custo": "46,56",
+    "Vl. Venda": "46,56",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "46,56"
+  },
+  {
+    "Cód.": "4618807190",
+    "Produto": "Elecsys - Rubella IgG PreciControl - Controle (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "137,95",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Microtubo Eppendorf pacote c/1000",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "37,00",
+    "Vl. Venda": "37,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "37,00"
+  },
+  {
+    "Cód.": "4528417190",
+    "Produto": "Elecsys - Calibrador HbA1c",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "96,16",
+    "Vl. Venda": "96,16",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "96,16"
+  },
+  {
+    "Cód.": "7103352190",
+    "Produto": "Elecsys - PT screen",
+    "Categoria": "Outras",
+    "Vl. Custo": "573,84",
+    "Vl. Venda": "573,84",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "573,84"
+  },
+  {
+    "Produto": "Oleo de Imersão",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "17,00",
+    "Vl. Venda": "17,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "17,00"
+  },
+  {
+    "Cód.": "283",
+    "Produto": "Proteina Totales AA",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "103,20",
+    "Vl. Venda": "103,20",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "103,20"
+  },
+  {
+    "Cód.": "8243930190",
+    "Produto": "Elecsys - PTH CalSet - Calibrador (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "154,70",
+    "Vl. Venda": "154,70",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "154,70"
+  },
+  {
+    "Produto": "Sach bisc.waffer_Bauducco_Morango_96x30gr",
+    "Categoria": "Outras",
+    "Vl. Custo": "82,60",
+    "Vl. Venda": "0,86",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "82,60"
+  },
+  {
+    "Cód.": "6544410190",
+    "Produto": "Elecsys - EcoTergent / ECO - D c501/502",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.166,31",
+    "Vl. Venda": "1.166,31",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "1.166,31"
+  },
+  {
+    "Cód.": "10825468001",
+    "Produto": "HITACHI/COBAS ELETRODO SÓDIO",
+    "Categoria": "Outras",
+    "Vl. Custo": "2.000,00",
+    "Vl. Venda": "2.000,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "2.000,00"
+  },
+  {
+    "Cód.": "3246353001",
+    "Produto": "HITACHI/COBAS ELETRODO CLORO",
+    "Categoria": "Outras",
+    "Vl. Custo": "2.500,00",
+    "Vl. Venda": "2.500,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "2.500,00"
+  },
+  {
+    "Cód.": "10825441001",
+    "Produto": "HITACHI/COBAS ELETRODO POTÁSS",
+    "Categoria": "Outras",
+    "Vl. Custo": "2.000,00",
+    "Vl. Venda": "2.000,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "2.000,00"
+  },
+  {
+    "Cód.": "101",
+    "Produto": "M-53 LH Lyse",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "250,96",
+    "Vl. Venda": "250,96",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "250,96"
+  },
+  {
+    "Cód.": "100",
+    "Produto": "M-53 Leo(II)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "226,48",
+    "Vl. Venda": "226,48",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "226,48"
+  },
+  {
+    "Cód.": "3561097190",
+    "Produto": "Elecsys - LH CalSet - Calibrador (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "97,15",
+    "Vl. Venda": "97,15",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "97,15"
+  },
+  {
+    "Cód.": "99",
+    "Produto": "M-53 Leo(I)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "321,35",
+    "Vl. Venda": "321,35",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "321,35"
+  },
+  {
+    "Produto": "M-53D  Diluente 20L",
+    "Un. Med.": "Caixa",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "98,10",
+    "Vl. Venda": "98,10",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "98,10"
+  },
+  {
+    "Cód.": "5182522001",
+    "Produto": "KIT MAINTENANCE 6 MONTHS COBA",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.549,71",
+    "Vl. Venda": "1.549,71",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "1.549,71"
+  },
+  {
+    "Produto": "Fosfatase Alcalina (ALP 405)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "82,53",
+    "Vl. Venda": "82,53",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "82,53"
+  },
+  {
+    "Cód.": "5182549001",
+    "Produto": "KIT MAINTENANCE 1 YEAR COBAS",
+    "Categoria": "Outras",
+    "Vl. Custo": "6.305,55",
+    "Vl. Venda": "6.305,55",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "6.305,55"
+  },
+  {
+    "Cód.": "11298500316",
+    "Produto": "Elecsys - Sys Clean / ISE cleanin  (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "78,13",
+    "Vl. Venda": "78,13",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "78,13"
+  },
+  {
+    "Cód.": "11876368122",
+    "Produto": "Elecsys - Preci  Anti-HAV IgM  (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,00",
+    "Vl. Venda": "218,68",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "0,00"
+  },
+  {
+    "Produto": "Conjunto de Coloração (corante Panotico)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "34,10",
+    "Vl. Venda": "34,10",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "34,10"
+  },
+  {
+    "Cód.": "4618823190",
+    "Produto": "Elecsys - Toxo IGG PreciControl - Controle (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "122,37",
+    "Vl. Venda": "122,37",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "122,37"
+  },
+  {
+    "Cód.": "4968638001",
+    "Produto": "CYLINDER NO.50 ASSAY (C2/XS)",
+    "Categoria": "Outras",
+    "Vl. Custo": "2.004,92",
+    "Vl. Venda": "2.004,92",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "2.004,92"
+  },
+  {
+    "Produto": "Pipetador Automático 10-100ul",
+    "Categoria": "Outras",
+    "Vl. Custo": "330,00",
+    "Vl. Venda": "330,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "330,00"
+  },
+  {
+    "Cód.": "4352769001",
+    "Produto": "Elecsys - MIXING ROD ( P ) (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "639,09",
+    "Vl. Venda": "639,09",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "639,09"
+  },
+  {
+    "Cód.": "4814053001",
+    "Produto": "Elecsys - PROBE ISE / ISE PROBE ASSAY",
+    "Categoria": "Outras",
+    "Vl. Custo": "2.474,07",
+    "Vl. Venda": "2.474,07",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "2.474,07"
+  },
+  {
+    "Cód.": "3515087001",
+    "Produto": "Elecsys - REAGENT PIPETTOR / R PROBE ASSY  (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "2.870,37",
+    "Vl. Venda": "2.870,37",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "2.870,37"
+  },
+  {
+    "Cód.": "3561534001",
+    "Produto": "Elecsys - SIPPER PROBE / SIPPER NOZZLE N (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "817,96",
+    "Vl. Venda": "817,96",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "817,96"
+  },
+  {
+    "Cód.": "11930427122",
+    "Produto": "Elecsys - IGE CalSet - Calibrador (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "104,80",
+    "Vl. Venda": "104,80",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "104,80"
+  },
+  {
+    "Cód.": "4854241001",
+    "Produto": "Elecsys - Reaction cell for C501/C502 (24PCS)",
+    "Categoria": "Outras",
+    "Vl. Custo": "3.024,81",
+    "Vl. Venda": "3.024,81",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "3.024,81"
+  },
+  {
+    "Cód.": "3023141001",
+    "Produto": "Elecsys - PC/CC-CUPS (12 PCS) (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "145,06",
+    "Vl. Venda": "145,06",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "145,06"
+  },
+  {
+    "Cód.": "8272425001",
+    "Produto": "SYRINGE_ASSY N0.67 (FCM SHEAT)",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.264,49",
+    "Vl. Venda": "1.264,49",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "1.264,49"
+  },
+  {
+    "Cód.": "7212780190",
+    "Produto": "Elecsys - Vitamina B12 Cal Set - Calibrador (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "71,34",
+    "Vl. Venda": "71,34",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "71,34"
+  },
+  {
+    "Cód.": "7457448001",
+    "Produto": "Elecsys - Probe CP CPL.",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.086,34",
+    "Vl. Venda": "1.086,34",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "1.086,34"
+  },
+  {
+    "Cód.": "4804376001",
+    "Produto": "Elecsys - NOZZLE REAGENT",
+    "Categoria": "Outras",
+    "Vl. Custo": "2.625,91",
+    "Vl. Venda": "2.625,91",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "2.625,91"
+  },
+  {
+    "Cód.": "11098993122",
+    "Produto": "Elecsys - PRECIMAT FRUC - Calibrador",
+    "Categoria": "Outras",
+    "Vl. Custo": "92,46",
+    "Vl. Venda": "92,46",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "92,46"
+  },
+  {
+    "Cód.": "10685917001",
+    "Produto": "Elecsys - PACKING (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "2,96",
+    "Vl. Venda": "2,96",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "2,96"
+  },
+  {
+    "Cód.": "10989142001",
+    "Produto": "Elecsys - O-RING NBR P 9 (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "2,26",
+    "Vl. Venda": "2,26",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "2,26"
+  },
+  {
+    "Cód.": "11900820001",
+    "Produto": "Elecsys - SEAL S-NEEDLE (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "25,11",
+    "Vl. Venda": "25,11",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "25,11"
+  },
+  {
+    "Cód.": "11360981216",
+    "Produto": "COBAS SOLUCAO ELETROLITICA IN",
+    "Categoria": "Outras",
+    "Vl. Custo": "250,00",
+    "Vl. Venda": "250,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "250,00"
+  },
+  {
+    "Cód.": "3509940001",
+    "Produto": "Elecsys - NOZZLE EWS  (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.003,09",
+    "Vl. Venda": "1.003,09",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "1.003,09"
+  },
+  {
+    "Cód.": "7127162001",
+    "Produto": "Sample probe cobas u 601",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.052,00",
+    "Vl. Venda": "1.052,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "1.052,00"
+  },
+  {
+    "Cód.": "7127189001",
+    "Produto": "Sample probe cobas u 701",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.492,83",
+    "Vl. Venda": "1.492,83",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "1.492,83"
+  },
+  {
+    "Produto": "Controle de Urinalise (Fita de urina)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "240,00",
+    "Vl. Venda": "240,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "240,00"
+  },
+  {
+    "Produto": "Formulário de Pesquisa de Satisfação do Cliente - pacote c/50",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "15,00",
+    "Vl. Venda": "15,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "15,00"
+  },
+  {
+    "Cód.": "7783175001",
+    "Produto": "MAINTENANCE KIT 4 C501",
+    "Categoria": "Outras",
+    "Vl. Custo": "8.175,92",
+    "Vl. Venda": "8.175,92",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "8.175,92"
+  },
+  {
+    "Cód.": "5521521001",
+    "Produto": "KIT MAINTENANCE 6 MONTH",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.816,77",
+    "Vl. Venda": "1.816,77",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "1.816,77"
+  },
+  {
+    "Cód.": "12017504122",
+    "Produto": "Elecsys - Insulina CalSet - Calibrador (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "80,19",
+    "Vl. Venda": "80,19",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "80,19"
+  },
+  {
+    "Cód.": "6390579001",
+    "Produto": "Cobas U Calibration Strip, 25",
+    "Categoria": "Outras",
+    "Vl. Custo": "128,66",
+    "Vl. Venda": "128,66",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "128,66"
+  },
+  {
+    "Produto": "Balde para Limpeza",
+    "Categoria": "Outras",
+    "Vl. Custo": "3,50",
+    "Vl. Venda": "3,50",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "3,50"
+  },
+  {
+    "Cód.": "3731596001",
+    "Produto": "Tube for pinch (2 peças)",
+    "Categoria": "Outras",
+    "Vl. Custo": "172,67",
+    "Vl. Venda": "172,67",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "172,67"
+  },
+  {
+    "Cód.": "3504620001",
+    "Produto": "KIT MAINTENANCE MODULARE",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.053,92",
+    "Vl. Venda": "1.053,92",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "1.053,92"
+  },
+  {
+    "Cód.": "4938763001",
+    "Produto": "Elecsys - SIPPER TUBE 1",
+    "Categoria": "Outras",
+    "Vl. Custo": "167,99",
+    "Vl. Venda": "167,99",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "167,99"
+  },
+  {
+    "Cód.": "4547179001",
+    "Produto": "Elecsys - SIPPER NOZZLE",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.323,74",
+    "Vl. Venda": "1.323,74",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "1.323,74"
+  },
+  {
+    "Cód.": "4708725190",
+    "Produto": "Elecsys - Sample Cleaner 1",
+    "Categoria": "Outras",
+    "Vl. Custo": "59,12",
+    "Vl. Venda": "59,12",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "59,12"
+  },
+  {
+    "Cód.": "4938771001",
+    "Produto": "Elecsys - PV TUBE 1",
+    "Categoria": "Outras",
+    "Vl. Custo": "163,35",
+    "Vl. Venda": "163,35",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "163,35"
+  },
+  {
+    "Cód.": "8239720001",
+    "Produto": "Elecsys - PROBE SAMPLE S (mod)",
+    "Categoria": "Outras",
+    "Vl. Custo": "2.731,15",
+    "Vl. Venda": "2.731,15",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "2.731,15"
+  },
+  {
+    "Cód.": "4904630001",
+    "Produto": "Elecsys - HEAT CUT FILTER",
+    "Categoria": "Outras",
+    "Vl. Custo": "859,09",
+    "Vl. Venda": "859,09",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "859,09"
+  },
+  {
+    "Cód.": "7092547190",
+    "Produto": "Elecsys - Progesterone CalSet - Calibrador (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "112,50",
+    "Vl. Venda": "112,50",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "112,50"
+  },
+  {
+    "Produto": "Mini cube vhs",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "1.108,06",
+    "Vl. Venda": "1.108,06",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "1.108,06"
+  },
+  {
+    "Produto": "Cola Branca 500g",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "14,90",
+    "Vl. Venda": "14,90",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "14,90"
+  },
+  {
+    "Cód.": "11731548122",
+    "Produto": "Elecsys - T3 CalSet - Calibrador (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "119,84",
+    "Vl. Venda": "119,84",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "119,84"
+  },
+  {
+    "Cód.": "11731459200",
+    "Produto": "TSH Elecsys 200 for Instrumen",
+    "Categoria": "Outras",
+    "Vl. Custo": "114,02",
+    "Vl. Venda": "114,02",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "114,02"
+  },
+  {
+    "Cód.": "435",
+    "Produto": "Controle Liquichek UROANALISES biniv",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.050,98",
+    "Vl. Venda": "1.050,98",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "1.050,98"
+  },
+  {
+    "Cód.": "3302652190",
+    "Produto": "Elecsys - Beta/HCG  CalSet - (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "123,16",
+    "Vl. Venda": "123,16",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "123,16"
+  },
+  {
+    "Cód.": "12017717122",
+    "Produto": "Elecsys - T4 CalSet - Calibrador (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "82,00",
+    "Vl. Venda": "82,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "82,00"
+  },
+  {
+    "Cód.": "4939140001",
+    "Produto": "AIR ÚMP SET N01 XS",
+    "Categoria": "Outras",
+    "Vl. Custo": "2.723,94",
+    "Vl. Venda": "2.723,94",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "2.723,94"
+  },
+  {
+    "Cód.": "4738551200",
+    "Produto": "TSH CS for Instrument Check",
+    "Categoria": "Outras",
+    "Vl. Custo": "50,24",
+    "Vl. Venda": "50,24",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "50,24"
+  },
+  {
+    "Cód.": "553",
+    "Produto": "Jarra de café Mistral  103",
+    "Categoria": "Outras",
+    "Vl. Custo": "34,99",
+    "Vl. Venda": "34,99",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "34,99"
+  },
+  {
+    "Produto": "Malote para caixa 33x42",
+    "Categoria": "Outras",
+    "Vl. Custo": "30,20",
+    "Vl. Venda": "30,20",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "30,20"
+  },
+  {
+    "Produto": "Saco p/ lixo comum 40L - pacote c/100",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "15,15",
+    "Vl. Venda": "15,15",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "15,15"
+  },
+  {
+    "Produto": "Porta copo (parede) - copo 200ml",
+    "Categoria": "Outras",
+    "Vl. Custo": "38,90",
+    "Vl. Venda": "38,90",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "38,90"
+  },
+  {
+    "Produto": "Soluplastin (PT/TAP)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "139,10",
+    "Vl. Venda": "139,10",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "139,10"
+  },
+  {
+    "Produto": "Pipetador Automático 10ul",
+    "Categoria": "Outras",
+    "Vl. Custo": "23,00",
+    "Vl. Venda": "23,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "23,00"
+  },
+  {
+    "Cód.": "5202230190",
+    "Produto": "Elecsys - Testosterone CalSet - Calibrador (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "89,86",
+    "Vl. Venda": "89,86",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "89,86"
+  },
+  {
+    "Produto": "Bag para material biologico (REFRIGERADO) - pequeno",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "0,01"
+  },
+  {
+    "Cód.": "4927931190",
+    "Produto": "Elecsys - Anti-HBc PreciControl - Controle (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "128,14",
+    "Vl. Venda": "128,14",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "128,14"
+  },
+  {
+    "Cód.": "4663632190",
+    "Produto": "Elecsys - Activator",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "374,67",
+    "Vl. Venda": "374,67",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "374,67"
+  },
+  {
+    "Cód.": "11776452122",
+    "Produto": "Elecsys - Tumor Marker PreciControl  - Controle  (IMMUNO)",
+    "Categoria": "Outras",
+    "Vl. Custo": "207,92",
+    "Vl. Venda": "207,92",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "207,92"
+  },
+  {
+    "Cód.": "9005030190",
+    "Produto": "Elecsys - Anti TG CalSet - Calibrador (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "152,22",
+    "Vl. Venda": "152,22",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "152,22"
+  },
+  {
+    "Cód.": "7103425190",
+    "Produto": "Elecsys - APTT- Meds",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "1.513,52",
+    "Vl. Venda": "1.513,52",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "1.513,52"
+  },
+  {
+    "Cód.": "7560001190",
+    "Produto": "Elecsys - Folate CalSet - Calibrador (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "126,41",
+    "Vl. Venda": "126,41",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "126,41"
+  },
+  {
+    "Produto": "Garrafa termica 500ml (cafeteira)",
+    "Categoria": "Outras",
+    "Vl. Custo": "77,20",
+    "Vl. Venda": "77,20",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "77,20"
+  },
+  {
+    "Produto": "Bobina de Papel Termo (Fita de Urina) - caixa c/8",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "45,60",
+    "Vl. Venda": "45,60",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "45,60"
+  },
+  {
+    "Produto": "Refil do mop",
+    "Categoria": "Outras",
+    "Vl. Custo": "10,00",
+    "Vl. Venda": "10,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "10,00"
+  },
+  {
+    "Cód.": "11731645322",
+    "Produto": "Elecsys - CEA CalSet - Calibrador (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "33,88",
+    "Vl. Venda": "33,88",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "33,88"
+  },
+  {
+    "Produto": "Fita antiderrapante",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "23,00",
+    "Vl. Venda": "23,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "23,00"
+  },
+  {
+    "Cód.": "11355279216",
+    "Produto": "Cfas Proteins",
+    "Categoria": "Outras",
+    "Vl. Custo": "539,05",
+    "Vl. Venda": "539,05",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "539,05"
+  },
+  {
+    "Cód.": "3737586190",
+    "Produto": "Elecsys - Ferritina CalSet - Calibrador (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "52,08",
+    "Vl. Venda": "52,08",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "52,08"
+  },
+  {
+    "Produto": "Bobina termica (pack 36x10 AVL 9180) - caixa c/8",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "28,00",
+    "Vl. Venda": "28,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "28,00"
+  },
+  {
+    "Produto": "Lixeira branca (pequena)",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "0,01"
+  },
+  {
+    "Produto": "Pipetador Automático 25ul",
+    "Categoria": "Outras",
+    "Vl. Custo": "23,00",
+    "Vl. Venda": "23,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "23,00"
+  },
+  {
+    "Cód.": "4784626190",
+    "Produto": "Elecsys - Controle CMV IgM (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "159,56",
+    "Vl. Venda": "159,56",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "159,56"
+  },
+  {
+    "Produto": "Cubetas Coagulograma caixa c/160 (Wama)",
+    "Categoria": "Material de Uso e Consumo",
+    "Vl. Custo": "187,48",
+    "Vl. Venda": "187,48",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "187,48"
+  },
+  {
+    "Cód.": "8354",
+    "Produto": "Alça de platina 0.001 Laboclin",
+    "Categoria": "Outras",
+    "Vl. Custo": "188,00",
+    "Vl. Venda": "188,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "188,00"
+  },
+  {
+    "Produto": "Pasta limpa Cadeiras Limp tek",
+    "Categoria": "Outras",
+    "Vl. Custo": "6,50",
+    "Vl. Venda": "6,50",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "6,50"
+  },
+  {
+    "Cód.": "12172623122",
+    "Produto": "Elecsys - Cfas Lipides",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "89,21",
+    "Vl. Venda": "89,21",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "89,21"
+  },
+  {
+    "Cód.": "9077871190",
+    "Produto": "Elecsys - FT3 Calset - Calibrador (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "99,33",
+    "Vl. Venda": "99,33",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "99,33"
+  },
+  {
+    "Produto": "Controle Mission AVL 9180",
+    "Categoria": "Outras",
+    "Vl. Custo": "520,00",
+    "Vl. Venda": "520,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "520,00"
+  },
+  {
+    "Cód.": "4687876190",
+    "Produto": "Elecsys - PreciControl HBsAg II",
+    "Categoria": "Outras",
+    "Vl. Custo": "173,39",
+    "Vl. Venda": "173,39",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "173,39"
+  },
+  {
+    "Produto": "Maglumi - MODULO DE REAÇÃO",
+    "Categoria": "Outras",
+    "Vl. Custo": "586,43",
+    "Vl. Venda": "586,43",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "586,43"
+  },
+  {
+    "Produto": "Grampeador",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "23,90",
+    "Vl. Venda": "23,90",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "23,90"
+  },
+  {
+    "Produto": "Ponteira Etimax 1100 UL",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "894,78",
+    "Vl. Venda": "894,78",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "894,78"
+  },
+  {
+    "Cód.": "504727001",
+    "Produto": "TUBE PHARMED BPT 3 X 5",
+    "Categoria": "Outras",
+    "Vl. Custo": "28,49",
+    "Vl. Venda": "28,49",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "28,49"
+  },
+  {
+    "Cód.": "3290379190",
+    "Produto": "Elecsys - Anti-HCV PreciControl - Controle (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "88,62",
+    "Vl. Venda": "88,62",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "88,62"
+  },
+  {
+    "Produto": "Cera líquida",
+    "Categoria": "Outras",
+    "Vl. Custo": "11,98",
+    "Vl. Venda": "11,98",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "11,98"
+  },
+  {
+    "Produto": "INDACLEAR MAX S + DETERGENTE CONCENTRADO",
+    "Categoria": "Outras",
+    "Vl. Custo": "48,00",
+    "Vl. Venda": "48,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "48,00"
+  },
+  {
+    "Produto": "Borracha",
+    "Categoria": "Outras",
+    "Vl. Custo": "0,01",
+    "Vl. Venda": "0,01",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "0,01"
+  },
+  {
+    "Produto": "Lamina estilete largo 18mm c/10",
+    "Categoria": "Outras",
+    "Vl. Custo": "3,99",
+    "Vl. Venda": "3,99",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "3,99"
+  },
+  {
+    "Cód.": "11930346122",
+    "Produto": "Elecsys - Sys Wash",
+    "Categoria": "Outras",
+    "Vl. Custo": "50,76",
+    "Vl. Venda": "50,76",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "50,76"
+  },
+  {
+    "Produto": "Cabide Gancho (Pacote Fechado c/4)",
+    "Categoria": "Outras",
+    "Vl. Custo": "5,99",
+    "Vl. Venda": "5,99",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "5,99"
+  },
+  {
+    "Produto": "Solução de Limpeza de sol de potássio",
+    "Categoria": "Outras",
+    "Vl. Custo": "170,00",
+    "Vl. Venda": "170,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "170,00"
+  },
+  {
+    "Cód.": "11875124122",
+    "Produto": "Elecsys - Cortisol Calset - Calibrador (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "280,36",
+    "Vl. Venda": "280,36",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "280,36"
+  },
+  {
+    "Produto": "Solução Condisionadora KBP 0380",
+    "Categoria": "Outras",
+    "Vl. Custo": "150,00",
+    "Vl. Venda": "150,00",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "150,00"
+  },
+  {
+    "Produto": "Lustra móvel (Poliflor)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Produto Acabado",
+    "Vl. Custo": "7,15",
+    "Vl. Venda": "7,15",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "7,15"
+  },
+  {
+    "Cód.": "11876317122",
+    "Produto": "Elecsys - Controle Anti-HBs (IMMUNO)",
+    "Un. Med.": "Caixa",
+    "Categoria": "Outras",
+    "Vl. Custo": "105,69",
+    "Vl. Venda": "105,69",
+    "Qtd. Estoque": "1,00",
+    "Custo Total": "105,69"
+  }
+]
