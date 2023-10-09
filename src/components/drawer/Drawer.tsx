@@ -7,27 +7,27 @@ export const Drawer = () => {
   const fornecedor = fornecedorEprodutos
     .map((data) => data.FORNECEDOR)
     .reduce((unico: string[], item) => {
-      return unico?.includes(item) ? unico : [...unico, item];
+      return unico.includes(item) ? unico : [...unico, item];
     }, []);
 
   console.log(fornecedor);
 
   return (
-    <ul className="menu xl:menu-horizontal w-60 bg-base-200 rounded-box rounded-tl-none rounded-bl-none">
+    <ul className="menu w-72 bg-base-200 rounded-box rounded-tl-none rounded-bl-none ">
       <li>
         <a>Visão geral de compras</a>
-        <ul>
-          <li>
-            <a>Compras</a>
-          </li>
+        <ul className="before:bg-transparent">
           <li>
             <a>Gastos com fornecedores</a>
+          </li>
+          <li>
+            <a>Compras</a>
           </li>
         </ul>
       </li>
       <li>
         <a>Fornecedores e produtos</a>
-        <ul>
+        <ul className="text-xs before:bg-transparent">
           {fornecedor.map((fornecedores, index) => (
             <li key={index}>
               <a
