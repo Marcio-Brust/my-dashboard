@@ -1,5 +1,4 @@
-import { Drawer } from "@/components/drawer/Drawer";
-import fornecedoreProdutos from "../../../dados/fornecedorEprodutos.json";
+import fornecedoreProdutos from "../../../../dados/fornecedorEprodutos.json";
 
 export default function rochediagnosticabrasilltda() {
   return (

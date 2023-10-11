@@ -4,16 +4,8 @@ import React from "react";
 import fornecedorEprodutos from "../../../dados/fornecedorEprodutos.json";
 
 export const Drawer = () => {
-  const fornecedor = fornecedorEprodutos
-    .map((data) => data.FORNECEDOR)
-    .reduce((unico: string[], item) => {
-      return unico.includes(item) ? unico : [...unico, item];
-    }, []);
-
-  console.log(fornecedor);
-
   return (
-    <ul className="menu w-72 bg-base-200 rounded-box rounded-tl-none rounded-bl-none ">
+    <ul className="menu w-72 bg-base-200 rounded-box rounded-tl-none rounded-bl-none h-screen">
       <li>
         <a>Visão geral de compras</a>
         <ul className="before:bg-transparent">
@@ -28,60 +20,14 @@ export const Drawer = () => {
       <li>
         <a>Fornecedores e produtos</a>
         <ul className="text-xs before:bg-transparent">
-          {fornecedor.map((fornecedores, index) => (
-            <li key={index}>
-              <a
-                href={fornecedores.toLocaleLowerCase().replaceAll(" ", "")}
-                rel="fornecedor"
-              >
-                {fornecedores}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </li>
-      <li>
-        <a>Products</a>
-        <ul>
           <li>
-            <a>UI Kit</a>
+            <a href="/dadosfornecedores">Dados dos fornecedores</a>
           </li>
           <li>
-            <a>Wordpress themes</a>
+            <a href="/fornecedores">Fornecedores</a>
           </li>
           <li>
-            <a>Wordpress plugins</a>
-          </li>
-          <li>
-            <a>Open source</a>
-            <ul>
-              <li>
-                <a>Auth management system</a>
-              </li>
-              <li>
-                <a>VScode theme</a>
-              </li>
-              <li>
-                <a>Color picker app</a>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li>
-        <a>Company</a>
-        <ul>
-          <li>
-            <a>About us</a>
-          </li>
-          <li>
-            <a>Contact us</a>
-          </li>
-          <li>
-            <a>Privacy policy</a>
-          </li>
-          <li>
-            <a>Press kit</a>
+            <a href="/produtos">Produtos</a>
           </li>
         </ul>
       </li>
